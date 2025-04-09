@@ -1,0 +1,1089 @@
+crate,downloads,recent_downloads,updated_at,created_at,max_version,description,repository
+syn,820473109,120498173,2025-03-09T21:23:48.900018Z,2016-09-07T15:22:40.491981Z,2.0.100,Parser for Rust source code,https://github.com/dtolnay/syn
+hashbrown,598916568,114829112,2024-11-25T00:36:20.789854Z,2018-10-29T14:28:15.767024Z,0.15.2,A Rust port of Google's SwissTable hash map,https://github.com/rust-lang/hashbrown
+bitflags,598089104,92115869,2025-03-01T10:07:07.056260Z,2015-01-15T08:35:24.901276Z,2.9.0,"A macro to generate structures which behave like bitflags.
+",https://github.com/bitflags/bitflags
+proc-macro2,572019499,77190566,2025-03-03T05:14:34.171809Z,2017-07-06T01:01:58.064887Z,1.0.94,A substitute implementation of the compiler's `proc_macro` API to decouple token-based libraries from the procedural macro use case.,https://github.com/dtolnay/proc-macro2
+quote,559620342,76162468,2025-03-11T23:56:24.338648Z,2016-09-03T05:42:05.484129Z,1.0.40,Quasi-quoting macro quote!(...),https://github.com/dtolnay/quote
+libc,553329572,74181491,2025-04-03T07:19:23.284954Z,2015-01-15T20:22:13.100871Z,1.0.0-alpha.1,Raw FFI bindings to platform libraries like libc.,https://github.com/rust-lang/libc
+base64,543520521,90251596,2024-04-30T23:16:40.343739Z,2015-12-04T01:07:31.173829Z,0.22.1,encodes and decodes base64 as bytes or utf8,https://github.com/marshallpierce/rust-base64
+regex-syntax,522426440,82749744,2024-09-29T13:26:58.258288Z,2015-05-27T23:19:16.839117Z,0.8.5,A regular expression parser.,https://github.com/rust-lang/regex/tree/master/regex-syntax
+rand_core,502865419,73283423,2025-03-01T14:01:08.459817Z,2017-09-14T12:02:18.709038Z,0.9.3,"Core random number generator traits and tools for implementation.
+",https://github.com/rust-random/rand
+serde,497364701,66914190,2025-03-09T19:13:49.968038Z,2014-12-05T20:20:39.487502Z,1.0.219,A generic serialization/deserialization framework,https://github.com/serde-rs/serde
+cfg-if,494637124,61757061,2020-10-06T18:44:12.678620Z,2015-07-08T01:11:24.485040Z,1.0.0,"A macro to ergonomically define an item depending on a large number of #[cfg]
+parameters. Structured like an if-else chain, the first matching branch is the
+item that gets emitted.
+",https://github.com/alexcrichton/cfg-if
+rand,493582345,69250652,2025-01-27T13:38:34.935106Z,2015-02-03T06:17:14.147783Z,0.9.0,"Random number generators and other randomness functionality.
+",https://github.com/rust-random/rand
+indexmap,463541650,81510118,2025-04-04T23:17:05.300032Z,2018-01-30T17:59:48.053105Z,2.9.0,A hash table with consistent order and fast iteration.,https://github.com/indexmap-rs/indexmap
+getrandom,459606430,79718876,2025-03-17T21:51:47.455402Z,2019-01-19T12:56:49.379182Z,0.3.2,A small cross-platform library for retrieving random data from system source,https://github.com/rust-random/getrandom
+serde_derive,455702427,62817369,2025-03-09T19:13:28.347565Z,2016-08-29T05:22:31.552019Z,1.0.219,"Macros 1.1 implementation of #[derive(Serialize, Deserialize)]",https://github.com/serde-rs/serde
+autocfg,452859705,62194263,2024-09-27T01:05:28.096978Z,2018-05-30T18:21:35.379916Z,1.4.0,Automatic cfg for Rust compiler features,https://github.com/cuviper/autocfg
+itoa,450451587,60881289,2025-03-03T23:42:45.916886Z,2016-06-25T21:50:33.832Z,1.0.15,Fast integer primitive to string conversion,https://github.com/dtolnay/itoa
+memchr,441490060,60034040,2024-06-14T00:17:06.888625Z,2015-06-11T23:00:13.079973Z,2.7.4,"Provides extremely fast (uses SIMD on x86_64, aarch64 and wasm32) routines for
+1, 2 or 3 byte search and single substring search.
+",https://github.com/BurntSushi/memchr
+itertools,440076895,96067877,2024-12-31T12:32:06.925445Z,2014-11-21T19:56:41.399795Z,0.14.0,"Extra iterator adaptors, iterator methods, free functions, and macros.",https://github.com/rust-itertools/itertools
+serde_json,434231881,60307709,2025-03-03T09:04:21.796751Z,2015-08-07T19:04:18.632088Z,1.0.140,A JSON serialization file format,https://github.com/serde-rs/json
+log,422297019,58177144,2025-03-24T09:21:53.062280Z,2014-12-13T22:10:19.944550Z,0.4.27,"A lightweight logging facade for Rust
+",https://github.com/rust-lang/log
+once_cell,420698913,64117999,2025-03-28T17:15:56.184274Z,2018-08-02T00:12:48.969947Z,1.21.3,Single assignment cells and lazy values.,https://github.com/matklad/once_cell
+regex,416258157,54065508,2024-10-24T14:17:06.057437Z,2014-12-13T22:10:11.303311Z,1.11.1,"An implementation of regular expressions for Rust. This implementation uses
+finite automata and guarantees linear time matching on all inputs.
+",https://github.com/rust-lang/regex
+rand_chacha,408527142,62307303,2025-01-27T13:38:26.609781Z,2018-10-17T10:08:22.907614Z,0.9.0,"ChaCha random number generator
+",https://github.com/rust-random/rand
+aho-corasick,408243299,53742819,2024-03-20T00:06:10.886998Z,2015-06-12T01:15:54.846782Z,1.1.3,Fast multiple substring searching.,https://github.com/BurntSushi/aho-corasick
+heck,405262463,72186451,2024-03-12T22:42:23.303234Z,2017-03-27T11:22:23.067190Z,0.5.0,heck is a case conversion library.,https://github.com/withoutboats/heck
+ryu,401238433,57663653,2025-03-04T00:13:50.644407Z,2018-07-28T17:12:43.329564Z,1.0.20,Fast floating point to string conversion,https://github.com/dtolnay/ryu
+cc,399904181,57050237,2025-04-04T14:18:00.518911Z,2014-12-16T05:26:51.306505Z,1.2.18,"A build-time dependency for Cargo build scripts to assist in invoking the native
+C compiler to compile native C code into a static archive to be linked into Rust
+code.
+",https://github.com/rust-lang/cc-rs
+parking_lot_core,398671715,53170457,2024-04-25T23:03:36.701497Z,2016-08-26T23:12:30.588575Z,0.9.10,An advanced API for creating custom synchronization primitives.,https://github.com/Amanieu/parking_lot
+unicode-ident,396952492,71561680,2025-03-04T00:23:40.461695Z,2021-10-02T05:15:24.656394Z,1.0.18,Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31,https://github.com/dtolnay/unicode-ident
+regex-automata,394693575,78194464,2024-11-11T15:16:26.004200Z,2019-01-02T22:11:41.647566Z,0.4.9,Automata construction and matching using regular expressions.,https://github.com/rust-lang/regex/tree/master/regex-automata
+clap,391844688,58540300,2025-04-01T16:51:59.815379Z,2015-03-01T01:17:24.903018Z,4.5.35,"A simple to use, efficient, and full-featured Command Line Argument Parser",https://github.com/clap-rs/clap
+smallvec,388510580,52643270,2025-04-05T00:46:59.289860Z,2015-04-06T06:21:18.472333Z,2.0.0-alpha.11,'Small vector' optimization: store up to a small number of items on the stack,https://github.com/servo/rust-smallvec
+lazy_static,383398111,48308943,2024-06-21T22:48:42.440092Z,2014-11-23T01:18:10.993977Z,1.5.0,A macro for declaring lazily evaluated statics in Rust.,https://github.com/rust-lang-nursery/lazy-static.rs
+parking_lot,382838224,52511955,2024-05-24T22:26:24.893817Z,2016-05-13T15:57:59.130349Z,0.12.3,More compact and efficient implementations of the standard synchronization primitives.,https://github.com/Amanieu/parking_lot
+thiserror-impl,382261396,76455199,2025-03-03T04:24:17.423843Z,2019-10-09T18:05:26.708915Z,2.0.12,Implementation detail of the `thiserror` crate,https://github.com/dtolnay/thiserror
+thiserror,382217620,76453284,2025-03-03T04:24:30.902254Z,2019-10-09T18:05:40.346377Z,2.0.12,derive(Error),https://github.com/dtolnay/thiserror
+strsim,374578046,57188394,2024-04-02T22:18:09.406790Z,2015-02-10T02:10:46.832583Z,0.11.1,"Implementations of string similarity metrics. Includes Hamming, Levenshtein,
+OSA, Damerau-Levenshtein, Jaro, Jaro-Winkler, and Sørensen-Dice.
+",https://github.com/rapidfuzz/strsim-rs
+num-traits,370670626,47878634,2024-05-03T21:27:39.856244Z,2016-04-14T07:22:34.568594Z,0.2.19,Numeric traits for generic mathematics,https://github.com/rust-num/num-traits
+time,353559046,40310984,2025-03-23T21:44:54.684907Z,2014-11-13T06:52:51.369245Z,0.3.41,Date and time library. Fully interoperable with the standard library. Mostly compatible with #![no_std].,https://github.com/time-rs/time
+semver,352586106,50403929,2025-03-04T00:15:02.937867Z,2014-11-11T05:37:08.485853Z,1.0.26,Parser and evaluator for Cargo's flavor of Semantic Versioning,https://github.com/dtolnay/semver
+version_check,348060677,46469669,2024-07-25T23:38:14.142737Z,2017-01-15T08:53:43.890697Z,0.9.5,Tiny crate to check the version of the installed/running rustc.,https://github.com/SergioBenitez/version_check
+either,346581076,50692873,2025-03-05T21:36:27.950711Z,2015-09-14T22:12:31.900654Z,1.15.0,"The enum `Either` with variants `Left` and `Right` is a general purpose sum type with two cases.
+",https://github.com/rayon-rs/either
+idna,345166926,50250415,2024-11-04T09:47:25.663512Z,2016-03-27T08:55:20.657552Z,1.0.3,IDNA (Internationalizing Domain Names in Applications) and Punycode.,https://github.com/servo/rust-url/
+lock_api,338330293,43467532,2024-04-25T23:01:49.287895Z,2018-06-08T00:16:14.822518Z,0.4.12,Wrappers to create fully-featured Mutex and RwLock types. Compatible with no_std.,https://github.com/Amanieu/parking_lot
+digest,337593252,46524449,2025-02-22T18:58:56.313335Z,2016-10-06T14:10:33.763490Z,0.11.0-pre.10,Traits for cryptographic hash functions and message authentication codes,https://github.com/RustCrypto/traits
+scopeguard,335093398,42889180,2023-07-17T13:47:53.232324Z,2015-04-30T12:04:48.236552Z,1.2.0,"A RAII scope guard that will run a given closure when it goes out of scope,
+even if the code between panics (assuming unwinding panic).
+
+Defines the macros `defer!`, `defer_on_unwind!`, `defer_on_success!` as
+shorthands for guards with one of the implemented strategies.
+",https://github.com/bluss/scopeguard
+bytes,334675780,47849303,2025-03-05T12:12:14.708277Z,2015-01-30T08:04:59.453916Z,1.10.1,Types and traits for working with bytes,https://github.com/tokio-rs/bytes
+socket2,331138728,47910243,2025-03-30T13:12:13.054152Z,2017-06-07T18:05:03.996775Z,0.5.9,"Utilities for handling networking sockets with a maximal amount of configuration
+possible intended.
+",https://github.com/rust-lang/socket2
+block-buffer,327441670,45221837,2025-02-22T16:06:21.726189Z,2017-06-12T01:07:55.617813Z,0.11.0-rc.4,Buffer type for block processing of data,https://github.com/RustCrypto/utils
+crossbeam-utils,323736957,43720924,2024-12-15T15:26:01.019842Z,2017-08-28T12:20:45.154206Z,0.8.21,Utilities for concurrent programming,https://github.com/crossbeam-rs/crossbeam
+pin-project-lite,320471871,46156238,2025-01-06T12:20:51.767173Z,2019-10-22T15:30:45.981586Z,0.2.16,"A lightweight version of pin-project written with declarative macros.
+",https://github.com/taiki-e/pin-project-lite
+memoffset,313386829,40114810,2024-03-26T19:58:31.849513Z,2017-10-17T06:16:56.082296Z,0.9.1,offset_of functionality for Rust structs.,https://github.com/Gilnaa/memoffset
+anyhow,311969531,47188849,2025-03-03T05:09:21.291587Z,2019-10-05T19:52:26.646502Z,1.0.97,Flexible concrete Error type built on std::error::Error,https://github.com/dtolnay/anyhow
+miniz_oxide,311860850,52112543,2025-04-08T16:57:39.964326Z,2017-10-10T19:08:01.549072Z,0.8.8,DEFLATE compression and decompression library rewritten in Rust based on miniz,https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+mio,310891404,46668752,2024-11-29T16:55:05.717773Z,2014-11-11T23:52:39.666778Z,1.0.3,Lightweight non-blocking I/O.,https://github.com/tokio-rs/mio
+ppv-lite86,303774370,43891751,2025-03-09T20:01:40.419162Z,2019-02-01T22:36:06.869586Z,0.2.21,Cross-platform cryptography-oriented low-level SIMD library.,https://github.com/cryptocorrosion/cryptocorrosion
+rustix,300902995,56777070,2025-04-01T13:55:31.940128Z,2021-10-29T10:44:45.767768Z,1.0.5,Safe Rust bindings to POSIX/Unix/Linux/Winsock-like syscalls,https://github.com/bytecodealliance/rustix
+percent-encoding,300595519,40850705,2023-11-22T19:07:35.463515Z,2017-06-13T17:02:11.044209Z,2.3.1,Percent encoding and decoding,https://github.com/servo/rust-url/
+byteorder,300529364,42980930,2023-10-06T00:45:57.877036Z,2015-02-03T23:28:57.422130Z,1.5.0,Library for reading/writing numbers in big-endian and little-endian.,https://github.com/BurntSushi/byteorder
+tokio,300202595,42416262,2025-04-08T07:48:44.833815Z,2016-07-01T20:39:07.497766Z,1.44.2,"An event-driven, non-blocking I/O platform for writing asynchronous I/O
+backed applications.
+",https://github.com/tokio-rs/tokio
+url,297101585,41669494,2024-11-22T19:49:19.984539Z,2014-11-14T18:37:08.658193Z,2.5.4,"URL library for Rust, based on the WHATWG URL Standard",https://github.com/servo/rust-url
+generic-array,295447904,39142026,2025-01-12T17:58:19.615534Z,2015-09-27T14:13:44.174465Z,1.2.0,Generic types implementing functionality of arrays,https://github.com/fizyk20/generic-array.git
+http,290078364,52423600,2025-03-11T20:19:56.370499Z,2014-11-20T23:30:38.809367Z,1.3.1,"A set of types for representing HTTP requests and responses.
+",https://github.com/hyperium/http
+windows-sys,289842440,66097339,2024-07-30T15:26:17.224105Z,2021-10-18T14:47:07.495906Z,0.59.0,Rust for Windows,https://github.com/microsoft/windows-rs
+fastrand,289153359,51178905,2024-12-08T16:27:29.613896Z,2020-05-27T16:21:53.648642Z,2.3.0,A simple and fast random number generator,https://github.com/smol-rs/fastrand
+toml,287191546,43320886,2025-02-05T15:17:28.453820Z,2014-11-11T05:37:45.901317Z,0.8.20,"A native Rust encoder and decoder of TOML-formatted files and streams. Provides
+implementations of the standard Serialize/Deserialize traits for TOML data to
+facilitate deserializing and serializing Rust structures.
+",https://github.com/toml-rs/toml
+hyper,284689211,49132613,2025-01-28T13:52:17.475823Z,2014-11-22T04:05:30.459510Z,1.6.0,A protective and efficient HTTP library for all.,https://github.com/hyperium/hyper
+slab,281994235,38410487,2023-08-22T13:40:02.247474Z,2015-06-15T20:47:25.571674Z,0.4.9,Pre-allocated storage for a uniform data type,https://github.com/tokio-rs/slab
+ahash,281844833,42164664,2024-03-03T17:28:36.057306Z,2019-02-28T06:58:45.540196Z,0.8.11,A non-cryptographic hash function using AES-NI for high performance,https://github.com/tkaitchuck/ahash
+futures-core,281117603,40277151,2024-10-05T07:06:47.233193Z,2018-03-05T22:32:59.053938Z,0.3.31,"The core traits and types in for the `futures` library.
+",https://github.com/rust-lang/futures-rs
+num_cpus,276999540,28066754,2023-06-29T12:57:59.066610Z,2015-03-16T18:43:53.862639Z,1.16.0,Get the number of CPUs on a machine.,https://github.com/seanmonstar/num_cpus
+windows_x86_64_msvc,276158681,52140192,2025-01-07T15:43:03.422486Z,2021-10-27T15:17:55.755278Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+sha2,275167372,41799617,2025-03-05T21:18:11.496292Z,2016-05-06T20:20:25.502104Z,0.11.0-pre.5,"Pure Rust implementation of the SHA-2 hash function family
+including SHA-224, SHA-256, SHA-384, and SHA-512.
+",https://github.com/RustCrypto/hashes
+futures-util,274855103,39758275,2024-10-05T07:07:27.303135Z,2018-03-05T22:42:24.332661Z,0.3.31,"Common utilities and extension traits for the futures-rs library.
+",https://github.com/rust-lang/futures-rs
+futures-task,274325247,39732066,2024-10-05T07:07:01.495599Z,2019-07-29T02:21:47.224744Z,0.3.31,"Tools for working with tasks.
+",https://github.com/rust-lang/futures-rs
+linux-raw-sys,274022379,52392203,2025-03-14T10:55:02.366307Z,2021-06-12T14:38:40.005650Z,0.9.3,Generated bindings for Linux's userspace API,https://github.com/sunfishcode/linux-raw-sys
+chrono,273754631,39477912,2025-02-26T08:32:17.218741Z,2014-11-20T04:21:11.545166Z,0.4.40,Date and time library for Rust,https://github.com/chronotope/chrono
+fnv,270681020,39905060,2020-05-14T16:06:29.223002Z,2015-04-06T18:59:35.782519Z,1.0.7,Fowler–Noll–Vo hash function,https://github.com/servo/rust-fnv
+futures-sink,270619171,39092296,2024-10-05T07:06:58.039843Z,2018-03-05T22:41:47.740444Z,0.3.31,"The asynchronous `Sink` trait for the futures-rs library.
+",https://github.com/rust-lang/futures-rs
+futures-channel,269261995,38719567,2024-10-05T07:07:06.660085Z,2018-03-05T22:36:02.312563Z,0.3.31,"Channels for asynchronous communication using futures-rs.
+",https://github.com/rust-lang/futures-rs
+typenum,268485091,39444983,2025-02-18T07:41:11.193331Z,2015-09-26T03:09:06.865219Z,1.18.0,"Typenum is a Rust library for type-level numbers evaluated at
+    compile time. It currently supports bits, unsigned integers, and signed
+    integers. It also provides a type-level array of type-level numbers, but its
+    implementation is incomplete.",https://github.com/paholg/typenum
+unicode-normalization,266525005,27846519,2024-09-17T15:27:12.950740Z,2015-04-15T01:55:51.148249Z,0.1.24,"This crate provides functions for normalization of
+Unicode strings, including Canonical and Compatible
+Decomposition and Recomposition, as described in
+Unicode Standard Annex #15.
+",https://github.com/unicode-rs/unicode-normalization
+tracing,265975168,40590445,2024-11-27T17:13:14.607037Z,2017-11-27T18:43:02.901436Z,0.1.41,"Application-level tracing for Rust.
+",https://github.com/tokio-rs/tracing
+tracing-core,265741789,40528447,2024-11-25T22:10:20.575707Z,2019-06-20T17:36:00.464363Z,0.1.33,"Core primitives for application-level tracing.
+",https://github.com/tokio-rs/tracing
+spin,264504421,40280632,2025-03-26T19:10:27.894178Z,2015-01-27T15:50:37.555349Z,0.10.0,Spin-based synchronization primitives,https://github.com/mvdnes/spin-rs.git
+rustls,264095672,51200407,2025-03-17T13:41:39.344085Z,2016-08-27T06:58:30.801463Z,0.23.25,Rustls is a modern TLS library written in Rust.,https://github.com/rustls/rustls
+futures,263634494,35598939,2024-10-05T07:07:45.246157Z,2016-07-31T20:58:03.676528Z,0.3.31,"An implementation of futures and streams featuring zero allocations,
+composability, and iterator-like interfaces.
+",https://github.com/rust-lang/futures-rs
+num-integer,263003285,32999492,2024-02-08T01:42:29.084925Z,2016-04-14T07:26:07.694449Z,0.1.46,Integer traits and functions,https://github.com/rust-num/num-integer
+tokio-util,261359150,37485921,2025-03-13T10:24:36.801368Z,2018-02-01T03:25:03.010037Z,0.7.14,"Additional utilities for working with Tokio.
+",https://github.com/tokio-rs/tokio
+windows_x86_64_gnu,261288553,50237028,2025-01-07T15:42:54.444046Z,2021-10-28T19:27:32.276769Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+tinyvec,260205112,34466436,2025-03-03T04:38:33.236288Z,2020-01-07T02:30:11.536811Z,1.9.0,`tinyvec` provides 100% safe vec-like data structures.,https://github.com/Lokathor/tinyvec
+tempfile,260054014,41438033,2025-03-19T17:30:21.939513Z,2015-04-14T18:26:06.249019Z,3.19.1,A library for managing temporary files and directories.,https://github.com/Stebalien/tempfile
+unicode-xid,259471275,27110585,2024-09-19T15:55:24.420864Z,2015-04-27T01:12:08.811826Z,0.2.6,"Determine whether characters have the XID_Start
+or XID_Continue properties according to
+Unicode Standard Annex #31.
+",https://github.com/unicode-rs/unicode-xid
+pkg-config,259468111,37743508,2025-03-03T10:04:55.062213Z,2014-11-11T06:37:31.276162Z,0.3.32,"A library to run the pkg-config system tool at build time in order to be used in
+Cargo build scripts.
+",https://github.com/rust-lang/pkg-config-rs
+windows_i686_msvc,258759607,49713164,2025-01-07T15:42:50.460248Z,2021-10-27T15:17:41.977374Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+rustc_version,258555343,38213602,2024-08-28T09:21:22.033328Z,2015-08-24T00:54:04.579390Z,0.4.1,A library for querying the version of a installed rustc compiler,https://github.com/djc/rustc-version-rs
+windows_aarch64_msvc,258305626,49721261,2025-01-07T15:42:38.305221Z,2021-11-05T19:17:58.112695Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+futures-io,258251053,37453058,2024-10-05T07:06:53.156320Z,2016-07-31T20:58:50.213004Z,0.3.31,"The `AsyncRead`, `AsyncWrite`, `AsyncSeek`, and `AsyncBufRead` traits for the futures-rs library.
+",https://github.com/rust-lang/futures-rs
+http-body,258201319,46360742,2024-07-12T15:49:01.533452Z,2019-04-04T18:06:00.061574Z,1.0.1,"Trait representing an asynchronous, streaming, HTTP request or response body.
+",https://github.com/hyperium/http-body
+pin-utils,258033229,38061805,2020-04-22T16:13:27.095776Z,2018-08-06T15:00:31.609789Z,0.1.0,"Utilities for pinning
+",https://github.com/rust-lang-nursery/pin-utils
+windows_i686_gnu,257846571,49620802,2025-01-07T15:42:42.282152Z,2021-10-28T19:27:12.591562Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+uuid,256502661,40170660,2025-03-14T04:14:24.373430Z,2014-11-11T05:37:37.261193Z,1.16.0,A library to generate and parse UUIDs.,https://github.com/uuid-rs/uuid
+h2,255849058,43827086,2025-02-18T19:14:15.226465Z,2017-03-09T22:02:00.510015Z,0.4.8,An HTTP/2 client and server,https://github.com/hyperium/h2
+unicode-width,253657265,40287992,2024-09-19T21:00:00.648797Z,2015-04-14T19:29:07.865266Z,0.2.0,"Determine displayed width of `char` and `str` types
+according to Unicode Standard Annex #11 rules.
+",https://github.com/unicode-rs/unicode-width
+unicode-bidi,250836654,22448053,2024-12-16T23:09:47.459625Z,2015-06-11T18:06:04.414255Z,0.3.18,Implementation of the Unicode Bidirectional Algorithm,https://github.com/servo/unicode-bidi
+form_urlencoded,247705135,38043417,2023-11-22T19:09:03.881753Z,2020-06-19T22:23:03.447945Z,1.2.1,"Parser and serializer for the application/x-www-form-urlencoded syntax, as used by HTML forms.",https://github.com/servo/rust-url
+nom,246753911,34586874,2025-01-26T16:03:28.068915Z,2015-01-17T17:47:52.413792Z,8.0.0,"A byte-oriented, zero-copy, parser combinators library",https://github.com/rust-bakery/nom
+nix,244507595,37769555,2024-05-24T12:23:09.842537Z,2014-11-11T22:15:48.567559Z,0.29.0,Rust friendly bindings to *nix APIs,https://github.com/nix-rust/nix
+clap_lex,244340889,46272771,2024-12-05T21:15:27.308154Z,2022-04-15T19:08:14.988760Z,0.7.4,"Minimal, flexible command line parser",https://github.com/clap-rs/clap
+tinyvec_macros,241136128,31375613,2023-02-02T23:03:04.651564Z,2020-08-09T16:30:41.144543Z,0.1.1,Some macros for tiny containers,https://github.com/Soveu/tinyvec_macros
+cpufeatures,240775974,39956900,2025-01-25T01:35:46.131569Z,2021-04-26T17:07:17.776831Z,0.2.17,"Lightweight runtime CPU feature detection for aarch64, loongarch64, and x86/x86_64 targets, 
+with no_std support and support for mobile targets including Android and iOS
+",https://github.com/RustCrypto/utils
+windows-targets,236755205,50343713,2025-01-07T15:43:41.583963Z,2022-09-09T14:29:19.927693Z,0.53.0,Import libs for Windows,https://github.com/microsoft/windows-rs
+futures-macro,236271118,34953552,2024-10-05T07:07:15.104978Z,2019-11-06T18:21:14.020889Z,0.3.31,"The futures-rs procedural macro implementations.
+",https://github.com/rust-lang/futures-rs
+env_logger,234225876,32706640,2025-04-01T19:37:14.047276Z,2015-01-27T15:33:08.586936Z,0.11.8,"A logging implementation for `log` which is configured via an environment
+variable.
+",https://github.com/rust-cli/env_logger
+crossbeam-epoch,233967407,32443647,2024-01-08T12:56:47.048640Z,2017-11-26T17:32:53.106278Z,0.9.18,Epoch-based garbage collection,https://github.com/crossbeam-rs/crossbeam
+httparse,231447454,36008889,2025-03-03T14:44:09.975762Z,2015-02-20T18:34:43.448730Z,1.10.1,"A tiny, safe, speedy, zero-copy HTTP/1.x parser.",https://github.com/seanmonstar/httparse
+termcolor,230652092,26445134,2024-01-10T12:40:32.427230Z,2016-11-20T20:45:01.476057Z,1.4.1,"A simple cross platform library for writing colored text to a terminal.
+",https://github.com/BurntSushi/termcolor
+crc32fast,229456065,33705552,2024-05-20T15:47:13.301655Z,2018-11-13T12:53:18.900720Z,1.4.2,"Fast, SIMD-accelerated CRC32 (IEEE) checksum computation",https://github.com/srijs/rust-crc32fast
+futures-executor,228416357,33649961,2024-10-05T07:07:34.937861Z,2018-03-05T22:43:02.959105Z,0.3.31,"Executors for asynchronous tasks based on the futures-rs library.
+",https://github.com/rust-lang/futures-rs
+thread_local,228350897,31507847,2024-02-20T21:13:16.752Z,2016-04-08T07:42:40.999679Z,1.1.8,Per-object thread-local storage,https://github.com/Amanieu/thread_local-rs
+windows_x86_64_gnullvm,227607975,47807832,2025-01-07T15:42:58.357250Z,2022-09-01T21:01:36.169638Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+windows_aarch64_gnullvm,227607117,47801996,2025-01-07T15:42:32.178766Z,2022-09-01T20:55:47.169004Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+tokio-macros,225848564,35749140,2025-01-08T15:57:13.993235Z,2019-04-24T03:12:38.961545Z,2.5.0,"Tokio's proc macros.
+",https://github.com/tokio-rs/tokio
+redox_syscall,223865426,38118900,2025-04-05T15:14:48.090021Z,2016-11-03T01:32:41.787114Z,0.5.11,A Rust library to access raw Redox system calls,https://gitlab.redox-os.org/redox-os/syscall
+ring,223475742,42979823,2025-03-11T19:42:03.889273Z,2016-08-15T22:39:18.912891Z,0.17.14,An experiment.,https://github.com/briansmith/ring
+untrusted,222719392,41973262,2021-07-13T22:13:26.650010Z,2016-06-05T23:47:03.228558Z,0.9.0,"Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.",https://github.com/briansmith/untrusted
+flate2,221857713,33753676,2025-04-02T00:59:51.994945Z,2014-11-11T06:37:58.925398Z,1.1.1,"DEFLATE compression and decompression exposed as Read/BufRead/Write streams.
+Supports miniz_oxide and multiple zlib implementations. Supports zlib, gzip,
+and raw deflate streams.
+",https://github.com/rust-lang/flate2-rs
+async-trait,221343796,34669457,2025-03-15T01:00:14.583735Z,2019-07-23T16:10:00.020678Z,0.1.88,Type erasure for async trait methods,https://github.com/dtolnay/async-trait
+crossbeam-channel,220923828,27522881,2025-04-08T21:27:41.106342Z,2017-11-26T19:20:24.266475Z,0.5.15,Multi-producer multi-consumer channels for message passing,https://github.com/crossbeam-rs/crossbeam
+crossbeam-deque,220135846,32824715,2024-12-15T15:29:28.168345Z,2017-11-26T18:02:02.212875Z,0.8.6,Concurrent work-stealing deque,https://github.com/crossbeam-rs/crossbeam
+textwrap,219066082,20004798,2025-03-03T17:01:53.984799Z,2016-12-17T01:34:45.436054Z,0.16.2,"Library for word wrapping, indenting, and dedenting strings. Has optional support for Unicode and emojis as well as machine hyphenation.",https://github.com/mgeisler/textwrap
+tracing-attributes,218931657,35935014,2024-11-26T22:23:02.732936Z,2019-08-08T22:42:06.221385Z,0.1.28,"Procedural macro attributes for automatically instrumenting functions.
+",https://github.com/tokio-rs/tracing
+hex,216266918,32704300,2021-03-03T10:48:58.682837Z,2015-10-23T05:46:39.823534Z,0.4.3,Encoding and decoding data into/from hexadecimal representation.,https://github.com/KokaKiwi/rust-hex
+wasi,214004917,41902750,2025-02-28T17:50:49.661785Z,2019-03-27T16:47:22.126268Z,0.14.2+wasi-0.2.4,WASI API bindings for Rust,https://github.com/bytecodealliance/wasi-rs
+mime,213393416,32570988,2023-03-20T15:05:04.272177Z,2014-11-20T08:33:46.224820Z,0.3.17,Strongly Typed Mimes,https://github.com/hyperium/mime
+object,213356548,33172461,2024-12-21T12:45:17.244555Z,2016-08-19T20:44:53.178735Z,0.36.7,A unified interface for reading and writing object file formats.,https://github.com/gimli-rs/object
+toml_edit,213149642,49210488,2025-02-10T20:54:41.632313Z,2017-12-17T22:25:35.748546Z,0.22.24,Yet another format-preserving TOML parser.,https://github.com/toml-rs/toml
+tokio-rustls,212156357,43923808,2025-03-01T14:02:35.644698Z,2017-02-22T05:32:09.546440Z,0.26.2,Asynchronous TLS/SSL streams for Tokio using Rustls.,https://github.com/rustls/tokio-rustls
+pin-project,209422498,30305808,2025-03-03T16:49:30.727281Z,2019-01-08T15:11:01.560092Z,1.1.10,"A crate for safe and ergonomic pin-projection.
+",https://github.com/taiki-e/pin-project
+pin-project-internal,209323729,30301386,2025-03-03T16:48:37.574097Z,2019-08-11T15:42:07.442573Z,1.1.10,"Implementation detail of the `pin-project` crate.
+",https://github.com/taiki-e/pin-project
+want,209202336,31437042,2023-06-14T21:50:52.862160Z,2018-03-15T19:26:09.951353Z,0.3.1,Detect when another Future wants a result.,https://github.com/seanmonstar/want
+try-lock,206887593,31687825,2023-12-07T16:13:16.960779Z,2018-03-15T19:23:44.274814Z,0.2.5,A lightweight atomic lock.,https://github.com/seanmonstar/try-lock
+gimli,206688919,32745310,2024-10-04T08:32:55.705085Z,2016-06-15T02:48:38.339028Z,0.31.1,A library for reading and writing the DWARF debugging format.,https://github.com/gimli-rs/gimli
+subtle,206490686,35396553,2024-06-24T17:25:24.458503Z,2017-05-31T04:19:18.671882Z,2.6.1,Pure-Rust traits and utilities for constant-time cryptographic implementations.,https://github.com/dalek-cryptography/subtle
+time-macros,206362220,34721417,2025-03-23T21:44:47.804411Z,2019-12-02T06:06:16.262989Z,0.2.22,"    Procedural macros for the time crate.
+    This crate is an implementation detail and should not be relied upon directly.
+",https://github.com/time-rs/time
+errno,204977558,42977862,2025-04-04T11:12:25.745222Z,2015-03-19T21:26:09.647306Z,0.3.11,Cross-platform interface to the `errno` variable.,https://github.com/lambda-fairy/rust-errno
+arrayvec,204666466,32017995,2024-08-17T12:14:16.953307Z,2015-05-19T15:27:57.651929Z,0.7.6,"A vector with fixed capacity, backed by an array (it can be stored on the stack too). Implements fixed capacity ArrayVec and ArrayString.",https://github.com/bluss/arrayvec
+clap_derive,204506002,38550592,2025-03-10T20:46:30.053858Z,2020-05-03T07:51:45.713663Z,4.5.32,"Parse command line argument by defining a struct, derive crate.",https://github.com/clap-rs/clap
+adler,203982160,16504713,2021-02-26T12:12:02.566Z,2020-06-25T22:07:19.741753Z,1.0.2,A simple clean-room implementation of the Adler-32 checksum,https://github.com/jonas-schievink/adler.git
+walkdir,203581892,31208239,2024-03-01T17:55:09.221032Z,2015-09-27T05:01:40.286066Z,2.5.0,Recursively walk a directory.,https://github.com/BurntSushi/walkdir
+crypto-common,203268160,35332302,2025-02-22T18:52:29.741408Z,2021-02-10T22:26:47.773408Z,0.2.0-rc.2,Common cryptographic traits,https://github.com/RustCrypto/traits
+tower-service,203133144,32092372,2024-08-13T16:23:33.548845Z,2018-02-19T17:50:18.964360Z,0.3.3,"Trait representing an asynchronous, request / response based, client or server.
+",https://github.com/tower-rs/tower
+httpdate,203124918,29493827,2023-08-13T10:55:54.391658Z,2016-10-15T10:48:40.752919Z,1.0.3,HTTP date parsing and formatting,https://github.com/pyfisch/httpdate
+rustc-demangle,202620563,30164450,2024-05-07T12:12:25.371782Z,2016-05-13T20:00:42.138724Z,0.1.24,"Rust compiler symbol demangling.
+",https://github.com/rust-lang/rustc-demangle
+signal-hook-registry,202429744,31498365,2024-04-21T10:08:11.191480Z,2019-04-28T14:02:25.476340Z,1.4.2,Backend crate for signal-hook,https://github.com/vorner/signal-hook
+glob,201206734,32939291,2024-12-29T00:12:04.334018Z,2014-11-11T05:37:15.865977Z,0.3.2,"Support for matching file paths against Unix shell style patterns.
+",https://github.com/rust-lang/glob
+hermit-abi,200679154,36259260,2025-03-05T13:22:10.717387Z,2019-10-20T07:34:22.550962Z,0.5.0,Hermit system calls definitions.,https://github.com/hermit-os/hermit-rs
+reqwest,199622328,36937224,2025-03-18T16:48:20.397620Z,2016-10-16T17:29:41.599749Z,0.12.15,higher level HTTP client library,https://github.com/seanmonstar/reqwest
+winapi,198357608,24199481,2020-06-26T11:34:33.480855Z,2014-11-29T13:35:24.366255Z,0.3.9,Raw FFI bindings for all of Windows API.,https://github.com/retep998/winapi-rs
+rustls-pemfile,197018261,42529253,2024-09-30T16:29:22.598843Z,2020-12-28T14:24:30.384877Z,2.2.0,Basic .pem file parser for keys and certificates,https://github.com/rustls/pemfile
+humantime,196014088,27547275,2025-03-12T22:26:08.298966Z,2016-05-20T21:32:51.043935Z,2.2.0,"A parser and formatter for std::time::{Duration, SystemTime}",https://github.com/chronotope/humantime
+backtrace,195662421,28574378,2024-09-08T22:58:38.768906Z,2015-06-10T08:23:39.379972Z,0.3.74,"A library to acquire a stack trace (backtrace) at runtime in a Rust program.
+",https://github.com/rust-lang/backtrace-rs
+num-bigint,195656846,30345544,2025-01-25T00:26:55.294210Z,2016-04-14T07:41:44.715174Z,0.4.6,Big integer implementation for Rust,https://github.com/rust-num/num-bigint
+atty,194312894,13103348,2020-01-05T22:19:33.123499Z,2015-07-10T00:25:05.224059Z,0.2.14,A simple interface for querying atty,https://github.com/softprops/atty
+darling_core,192686454,34812445,2025-03-28T20:05:00.260571Z,2017-05-15T19:25:03.051442Z,0.20.11,"Helper crate for proc-macro library for reading attributes into structs when
+implementing custom derives. Use https://crates.io/crates/darling in your code.
+",https://github.com/TedDriggs/darling
+darling_macro,192660278,34801863,2025-03-28T20:05:07.944299Z,2017-05-15T19:25:34.841634Z,0.20.11,"Internal support for a proc-macro library for reading attributes into structs when
+implementing custom derives. Use https://crates.io/crates/darling in your code.
+",https://github.com/TedDriggs/darling
+darling,192655426,34804654,2025-03-28T20:05:16.077464Z,2017-05-15T19:26:00.393283Z,0.20.11,"A proc-macro library for reading attributes into structs when
+implementing custom derives.
+",https://github.com/TedDriggs/darling
+same-file,192337246,30175160,2020-01-11T17:02:30.960838Z,2017-01-08T23:00:41.755668Z,1.0.6,"A simple crate for determining whether two file paths point to the same file.
+",https://github.com/BurntSushi/same-file
+addr2line,191735165,30434675,2024-10-04T09:02:01.134792Z,2016-12-03T21:33:01.794743Z,0.24.2,"A cross-platform symbolication library written in Rust, using `gimli`",https://github.com/gimli-rs/addr2line
+paste,191519342,31033822,2024-05-07T01:50:22.784771Z,2018-11-01T02:52:18.319383Z,1.0.15,Macros for all your token pasting needs,https://github.com/dtolnay/paste
+hmac,191049275,27498595,2025-03-07T13:57:48.652087Z,2016-10-06T21:23:44.676009Z,0.13.0-pre.5,Generic implementation of Hash-based Message Authentication Code (HMAC),https://github.com/RustCrypto/MACs
+iana-time-zone,190514603,35993236,2025-03-31T15:30:18.770020Z,2020-06-27T11:01:58.126511Z,0.1.63,get the IANA time zone for the current system,https://github.com/strawlab/iana-time-zone
+encoding_rs,189553766,29155260,2024-10-24T09:22:44.123986Z,2016-07-09T12:27:23.194308Z,0.8.35,A Gecko-oriented implementation of the Encoding Standard,https://github.com/hsivonen/encoding_rs
+serde_urlencoded,188635420,29332425,2022-01-17T11:26:21.628923Z,2016-09-11T11:46:40.652101Z,0.7.1,`x-www-form-urlencoded` meets Serde,https://github.com/nox/serde_urlencoded
+rayon,187517177,28049857,2024-03-24T05:24:47.903463Z,2015-12-10T22:38:20.637638Z,1.10.0,Simple work-stealing parallelism for Rust,https://github.com/rayon-rs/rayon
+unicode-segmentation,186764064,23715780,2024-09-13T17:05:55.908935Z,2015-04-14T23:28:47.673940Z,1.12.0,"This crate provides Grapheme Cluster, Word and Sentence boundaries
+according to Unicode Standard Annex #29 rules.
+",https://github.com/unicode-rs/unicode-segmentation
+rustversion,185802008,35917407,2025-03-04T00:13:12.711336Z,2019-07-08T03:49:21.699801Z,1.0.20,Conditional compilation according to rustc compiler version,https://github.com/dtolnay/rustversion
+strum_macros,184952036,35325351,2025-02-17T00:25:43.464824Z,2017-02-12T07:05:29.029980Z,0.27.1,Helpful macros for working with enums and strings,https://github.com/Peternator7/strum
+rayon-core,184667075,27730155,2024-01-17T17:56:12.833437Z,2017-03-11T20:11:25.040031Z,1.12.1,Core APIs for Rayon,https://github.com/rayon-rs/rayon
+winnow,183984500,50436009,2025-04-07T20:58:33.532043Z,2023-02-22T17:01:25.112233Z,0.7.6,"A byte-oriented, zero-copy, parser combinators library",https://github.com/winnow-rs/winnow
+rustc-hash,183311075,42760893,2025-02-05T18:34:34.388524Z,2018-05-24T13:05:52.176874Z,2.1.1,"A speedy, non-cryptographic hashing algorithm used by rustc",https://github.com/rust-lang/rustc-hash
+minimal-lexical,182621551,31143458,2021-10-04T10:53:11.629475Z,2021-04-27T23:04:12.608012Z,0.2.1,Fast float parsing conversion routines.,https://github.com/Alexhuszagh/minimal-lexical
+webpki-roots,181357247,34121206,2025-01-31T00:34:47.084757Z,2016-08-28T13:40:20.874613Z,0.26.8,Mozilla's CA root certificates for use with webpki,https://github.com/rustls/webpki-roots
+ipnet,177557673,30253038,2025-01-20T00:33:10.616110Z,2017-08-14T20:09:09.629621Z,2.11.0,"Provides types and useful methods for working with IPv4 and IPv6 network addresses, commonly called IP prefixes. The new `IpNet`, `Ipv4Net`, and `Ipv6Net` types build on the existing `IpAddr`, `Ipv4Addr`, and `Ipv6Addr` types already provided in Rust's standard library and align to their design to stay consistent. The module also provides useful traits that extend `Ipv4Addr` and `Ipv6Addr` with methods for `Add`, `Sub`, `BitAnd`, and `BitOr` operations. The module only uses stable feature so it is guaranteed to compile using the stable toolchain.",https://github.com/krisprice/ipnet
+strum,177276460,34680704,2025-02-17T00:25:58.032415Z,2017-02-12T07:07:10.075292Z,0.27.1,Helpful macros for working with enums and strings,https://github.com/Peternator7/strum
+libloading,176857321,27108254,2024-11-29T16:49:13.965316Z,2015-11-08T12:22:07.864268Z,0.8.6,Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.,https://github.com/nagisa/rust_libloading/
+zeroize,176678826,34010893,2024-05-25T19:10:18.831246Z,2018-10-03T09:33:21.998452Z,1.8.1,"Securely clear secrets from memory with a simple trait built on
+stable Rust primitives which guarantee memory is zeroed using an
+operation will not be 'optimized away' by the compiler.
+Uses a portable pure Rust implementation that works everywhere,
+even WASM!
+",https://github.com/RustCrypto/utils/tree/master/zeroize
+openssl-sys,175591733,26036264,2025-04-04T12:52:26.443899Z,2014-11-11T06:38:37.917011Z,0.9.107,FFI bindings to OpenSSL,https://github.com/sfackler/rust-openssl
+tracing-subscriber,175151176,30134259,2024-11-29T16:29:24.377071Z,2019-06-27T22:06:39.700601Z,0.3.19,"Utilities for implementing and composing `tracing` subscribers.
+",https://github.com/tokio-rs/tracing
+equivalent,173625440,46293154,2025-02-14T22:14:18.212755Z,2023-02-05T22:54:27.715050Z,1.0.2,Traits for key comparison in maps.,https://github.com/indexmap-rs/equivalent
+openssl-probe,173449081,28253163,2025-01-23T16:14:49.108354Z,2016-11-06T05:25:41.005024Z,0.1.6,"Tool for helping to find SSL certificate locations on the system for OpenSSL
+",https://github.com/alexcrichton/openssl-probe
+instant,171793033,20233001,2024-05-17T19:56:13.760985Z,2019-04-09T08:42:23.290642Z,0.1.13,"Unmaintained, consider using web-time instead - A partial replacement for std::time::Instant that works on WASM to.",https://github.com/sebcrozet/instant
+event-listener,170253561,36976219,2025-01-08T02:19:54.075080Z,2020-05-16T17:53:08.377375Z,5.4.0,Notify async tasks or threads,https://github.com/smol-rs/event-listener
+static_assertions,170142014,25962991,2019-11-03T17:02:11.618786Z,2017-08-13T00:07:30.041787Z,1.1.0,Compile-time assertions to ensure that invariants are met.,https://github.com/nvzqz/static-assertions-rs
+shlex,166586448,41988904,2024-01-22T05:15:15.585884Z,2015-06-22T23:35:40.217184Z,1.3.0,"Split a string into shell words, like Python's shlex.",https://github.com/comex/rust-shlex
+tracing-log,166366209,28964537,2023-10-25T17:01:37.024993Z,2019-06-27T22:04:20.989322Z,0.2.0,"Provides compatibility between `tracing` and the `log` crate.
+",https://github.com/tokio-rs/tracing
+rustls-webpki,165732476,43799386,2025-03-25T14:53:20.448220Z,2023-01-09T16:48:34.685301Z,0.103.1,Web PKI X.509 Certificate Verification.,https://github.com/rustls/webpki
+which,165678324,21058656,2025-04-08T19:30:45.055302Z,2015-10-06T11:33:07.444737Z,7.0.3,"A Rust equivalent of Unix command ""which"". Locate installed executable in cross platforms.",https://github.com/harryfei/which-rs.git
+hyper-rustls,165462749,36537690,2024-12-20T15:20:05.608181Z,2016-10-08T09:37:41.910219Z,0.27.5,Rustls+hyper integration for pure rust HTTPS,https://github.com/rustls/hyper-rustls
+proc-macro-error,165362813,19350039,2020-07-31T18:08:20.096247Z,2019-07-11T07:51:11.667268Z,1.0.4,Almost drop-in replacement to panics in proc-macros,https://gitlab.com/CreepySkeleton/proc-macro-error
+clap_builder,164864231,40568394,2025-04-01T16:51:55.678682Z,2023-03-28T00:41:44.344826Z,4.5.35,"A simple to use, efficient, and full-featured Command Line Argument Parser",https://github.com/clap-rs/clap
+prost,164345392,36353664,2025-02-12T06:59:20.501505Z,2017-06-25T07:39:15.991516Z,0.13.5,A Protocol Buffers implementation for the Rust Language.,https://github.com/tokio-rs/prost
+proc-macro-error-attr,164199609,19310009,2020-07-31T18:06:37.966375Z,2019-10-06T06:40:18.626517Z,1.0.4,Attribute macro for proc-macro-error crate,https://gitlab.com/CreepySkeleton/proc-macro-error
+prost-derive,164190350,36291492,2025-02-12T06:59:07.397388Z,2017-06-25T07:38:48.366541Z,0.13.5,Generate encoding and decoding implementations for Prost annotated types.,https://github.com/tokio-rs/prost
+anstyle,161958962,38782534,2024-11-01T13:59:38.779125Z,2022-05-18T20:59:53.360865Z,1.0.10,ANSI text styling,https://github.com/rust-cli/anstyle.git
+proc-macro-crate,161900529,28360561,2025-03-06T12:32:01.383701Z,2019-02-11T10:38:10.168331Z,3.3.0,"Replacement for crate (macro_rules keyword) in proc-macros
+",https://github.com/bkchr/proc-macro-crate
+time-core,161394816,33290479,2025-03-18T06:52:34.086824Z,2020-12-17T01:08:57.508248Z,0.1.4,This crate is an implementation detail and should not be relied upon directly.,https://github.com/time-rs/time
+bumpalo,161205411,27945964,2025-01-28T17:37:33.332880Z,2018-11-24T06:21:56.420457Z,3.17.0,A fast bump allocation arena for Rust.,https://github.com/fitzgen/bumpalo
+phf_shared,159461774,28943890,2025-01-06T20:29:20.816261Z,2014-11-22T22:27:31.946226Z,0.11.3,Support code shared by PHF libraries,https://github.com/rust-phf/rust-phf
+sharded-slab,159271697,27752294,2023-10-04T19:37:55.401239Z,2019-10-02T23:38:13.973505Z,0.1.7,"A lock-free concurrent slab.
+",https://github.com/hawkw/sharded-slab
+jobserver,158479945,27003912,2025-04-01T17:06:18.381864Z,2017-05-28T20:12:06.126106Z,0.1.33,"An implementation of the GNU Make jobserver for Rust.
+",https://github.com/rust-lang/jobserver-rs
+openssl,158377856,23946142,2025-04-04T12:52:48.999808Z,2014-11-21T06:54:00.684701Z,0.10.72,OpenSSL bindings,https://github.com/sfackler/rust-openssl
+foreign-types,158089443,25253848,2019-10-13T19:24:15.900127Z,2017-01-31T04:36:40.076916Z,0.5.0,A framework for Rust wrappers over C APIs,https://github.com/sfackler/foreign-types
+foreign-types-shared,157522286,25256751,2022-03-21T22:06:37.413498Z,2017-11-26T23:56:57.865334Z,0.3.1,An internal crate used by foreign-types,https://github.com/sfackler/foreign-types
+opaque-debug,155777304,16122165,2024-03-01T12:08:32.543535Z,2017-11-26T15:55:55.619753Z,0.3.1,Macro for opaque Debug trait implementation,https://github.com/RustCrypto/utils
+zerocopy,155089950,53606452,2025-04-08T17:46:10.005019Z,2018-08-15T05:46:29.013597Z,0.9.0-alpha.0,"Zerocopy makes zero-cost memory manipulation effortless. We write ""unsafe"" so you don't have to.",https://github.com/google/zerocopy
+wasm-bindgen,152267183,25301819,2025-01-12T23:18:04.182224Z,2018-03-06T04:24:26.947567Z,0.2.100,"Easy support for interacting between JS and Rust.
+",https://github.com/rustwasm/wasm-bindgen
+wasm-bindgen-backend,152090051,25271298,2025-01-12T23:13:08.274393Z,2018-04-03T21:02:46.090931Z,0.2.100,"Backend code generation of the wasm-bindgen tool
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/backend
+wasm-bindgen-macro,152007750,25246920,2025-01-12T23:17:11.755452Z,2018-03-06T04:21:14.486723Z,0.2.100,"Definition of the `#[wasm_bindgen]` attribute, an internal dependency
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/macro
+wasm-bindgen-macro-support,151945217,25250505,2025-01-12T23:13:11.492596Z,2018-08-13T21:31:57.296968Z,0.2.100,"The part of the implementation of the `#[wasm_bindgen]` attribute that is not in the shared backend crate
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/macro-support
+sync_wrapper,151906309,40392392,2024-11-20T16:29:59.416129Z,2020-05-16T18:10:10.458779Z,1.0.2,A tool for enlisting the compiler's help in proving the absence of concurrency,https://github.com/Actyx/sync_wrapper
+wasm-bindgen-shared,151823972,25201444,2025-01-12T23:13:03.383484Z,2018-03-06T04:18:13.413080Z,0.2.100,"Shared support between wasm-bindgen and wasm-bindgen cli, an internal
+dependency.
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/shared
+utf8parse,151819135,35002343,2024-06-08T07:07:41.813419Z,2016-09-18T00:27:10.771511Z,0.2.2,Table-driven UTF-8 parser,https://github.com/alacritty/vte
+winapi-x86_64-pc-windows-gnu,150823241,21599327,2018-01-18T00:55:12.008307Z,2016-11-23T19:48:47.829720Z,0.4.0,"Import libraries for the x86_64-pc-windows-gnu target. Please don't use this crate directly, depend on winapi instead.",https://github.com/retep998/winapi-rs
+siphasher,150559804,28314670,2024-03-17T21:59:01.698376Z,2016-10-04T10:23:48.249538Z,1.0.1,"SipHash-2-4, SipHash-1-3 and 128-bit variants in pure Rust",https://github.com/jedisct1/rust-siphash
+bstr,150518909,24248848,2025-04-08T16:37:00.152093Z,2018-10-09T22:14:04.467612Z,1.12.0,A string type that is not required to be valid UTF-8.,https://github.com/BurntSushi/bstr
+winapi-i686-pc-windows-gnu,149702121,21505413,2018-01-18T00:55:38.910834Z,2016-11-23T19:48:14.544324Z,0.4.0,"Import libraries for the i686-pc-windows-gnu target. Please don't use this crate directly, depend on winapi instead.",https://github.com/retep998/winapi-rs
+sha1,149450048,26056005,2025-03-05T21:17:46.043315Z,2014-11-21T12:56:35.586016Z,0.11.0-pre.5,SHA-1 hash function,https://github.com/RustCrypto/hashes
+petgraph,149233434,26157245,2025-04-07T09:58:12.070960Z,2015-01-11T20:07:47.311473Z,0.8.1,Graph data structure library. Provides graph types and graph algorithms.,https://github.com/petgraph/petgraph
+fixedbitset,148506350,26348476,2024-04-14T23:53:05.918820Z,2015-04-03T11:26:51.825003Z,0.5.7,FixedBitSet is a simple bitset collection,https://github.com/petgraph/fixedbitset
+tower,148261063,41101000,2024-12-11T13:26:44.329531Z,2016-12-23T17:20:31.319203Z,0.5.2,"Tower is a library of modular and reusable components for building robust
+clients and servers.
+",https://github.com/tower-rs/tower
+anstream,148008732,36174564,2024-11-04T18:02:39.562359Z,2023-03-16T14:54:31.795594Z,0.6.18,A simple cross platform library for writing colored text to a terminal.,https://github.com/rust-cli/anstyle.git
+sct,147914804,16051513,2023-10-24T14:57:55.376462Z,2017-07-09T19:54:37.366366Z,0.7.1,Certificate transparency SCT verification library,https://github.com/rustls/sct.rs
+toml_datetime,146951777,34049943,2024-07-30T13:56:51.275733Z,2022-10-21T16:38:58.820519Z,0.6.8,A TOML-compatible datetime type,https://github.com/toml-rs/toml
+anstyle-parse,145623761,35760296,2024-10-24T20:00:25.445841Z,2023-03-08T21:17:13.852775Z,0.2.6,Parse ANSI Style Escapes,https://github.com/rust-cli/anstyle.git
+tokio-stream,144762954,24989056,2024-12-06T10:20:07.445232Z,2020-12-03T23:05:27.160680Z,0.1.17,"Utilities to work with `Stream` and `tokio`.
+",https://github.com/tokio-rs/tokio
+vcpkg,144047092,26930475,2021-06-19T16:35:46.573605Z,2017-04-20T21:35:56.630487Z,0.2.15,"A library to find native dependencies in a vcpkg tree at build
+time in order to be used in Cargo build scripts.
+",https://github.com/mcgoo/vcpkg-rs
+convert_case,143667647,27137550,2025-02-26T21:04:43.219122Z,2020-04-17T00:48:33.267470Z,0.8.0,Convert strings into any case,https://github.com/rutrum/convert-case
+anstyle-query,140572660,35658049,2024-10-24T20:00:29.222156Z,2023-04-13T14:40:53.104785Z,1.1.2,Look up colored console capabilities,https://github.com/rust-cli/anstyle.git
+js-sys,140379398,23775943,2025-01-12T23:18:16.405956Z,2018-07-19T19:42:36.874339Z,0.3.77,"Bindings for all JS global objects and functions in all JS environments like
+Node.js and browsers, built on `#[wasm_bindgen]` using the `wasm-bindgen` crate.
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/js-sys
+ident_case,138702469,26569759,2019-03-18T20:07:20.426691Z,2017-05-10T19:51:31.395527Z,1.0.1,Utility for applying case rules to Rust identifiers.,https://github.com/TedDriggs/ident_case
+colorchoice,137864308,35529054,2024-10-24T20:00:36.947622Z,2023-04-13T14:41:28.859123Z,1.0.3,Global override of color control,https://github.com/rust-cli/anstyle.git
+ansi_term,137821423,8999976,2019-09-02T10:16:04.908577Z,2014-11-26T00:50:42.101172Z,0.12.1,"Library for ANSI terminal colours and styles (bold, underline)",https://github.com/ogham/rust-ansi-term
+quick-error,137721488,22578032,2021-05-07T12:10:10.154641Z,2015-09-09T22:47:44.666353Z,2.0.1,"    A macro which makes error types pleasant to write.
+",http://github.com/tailhook/quick-error
+phf,137493735,25482770,2025-01-06T20:32:46.521816Z,2014-11-22T22:27:53.644783Z,0.11.3,Runtime support for perfect hash function data structures,https://github.com/rust-phf/rust-phf
+half,137129947,29318122,2025-04-08T04:50:59.620770Z,2016-03-18T05:04:29.255020Z,2.6.0,Half-precision floating point f16 and bf16 types for Rust implementing the IEEE 754-2008 standard binary16 and bfloat16 types.,https://github.com/VoidStarKat/half-rs
+matchers,137096972,25203873,2024-07-01T22:20:07.033866Z,2019-08-02T20:31:26.476346Z,0.2.0,"Regex matching on character and byte streams.
+",https://github.com/hawkw/matchers
+unicase,135734659,20464640,2024-12-24T15:31:12.424515Z,2015-01-09T20:05:24.122027Z,2.8.1,A case-insensitive wrapper around strings.,https://github.com/seanmonstar/unicase
+num-rational,134409862,22518801,2025-01-25T00:45:16.565243Z,2016-04-14T07:42:39.085844Z,0.4.2,Rational numbers implementation for Rust,https://github.com/rust-num/num-rational
+prost-types,133647574,28558354,2025-02-12T06:59:33.702587Z,2017-09-10T19:19:37.407643Z,0.13.5,Prost definitions of Protocol Buffers well known types.,https://github.com/tokio-rs/prost
+native-tls,133548941,20419261,2025-02-19T19:24:27.427135Z,2016-11-09T21:07:37.761548Z,0.2.14,A wrapper over a platform's native TLS implementation,https://github.com/sfackler/rust-native-tls
+synstructure,132009310,35330528,2024-01-30T23:45:23.197015Z,2016-10-09T17:25:06.828782Z,0.13.1,Helper methods and macros for custom derives,https://github.com/mystor/synstructure
+hyper-tls,131111158,22221212,2023-11-27T19:18:29.702911Z,2017-01-04T22:41:13.366514Z,0.6.0,Default TLS implementation for use with hyper,https://github.com/hyperium/hyper-tls
+phf_generator,130072434,24402046,2025-01-06T20:30:28.955489Z,2015-02-22T20:48:14.120861Z,0.11.3,PHF generation logic,https://github.com/rust-phf/rust-phf
+nu-ansi-term,129535195,28698398,2024-07-23T22:20:55.095113Z,2021-03-09T18:58:03.243547Z,0.50.1,"Library for ANSI terminal colors and styles (bold, underline)",https://github.com/nushell/nu-ansi-term
+winapi-util,128446863,20033296,2024-08-02T21:18:26.472826Z,2018-08-25T02:49:16.521473Z,0.1.9,A dumping ground for high level safe wrappers over windows-sys.,https://github.com/BurntSushi/winapi-util
+tower-layer,128211232,26456895,2024-08-13T16:53:54.096608Z,2019-04-27T05:09:34.746381Z,0.3.3,"Decorates a `Service` to allow easy composition between `Service`s.
+",https://github.com/tower-rs/tower
+rustls-native-certs,128071588,28042231,2024-11-21T15:42:54.624993Z,2019-11-04T21:10:51.429223Z,0.8.1,rustls-native-certs allows rustls to use the platform native certificate store,https://github.com/rustls/rustls-native-certs
+is-terminal,127788792,24225941,2025-03-07T04:26:17.164605Z,2022-01-22T02:08:49.649286Z,0.4.16,Test whether a given stream is a terminal,https://github.com/sunfishcode/is-terminal
+bindgen,126592207,24029546,2024-12-09T15:28:33.905852Z,2014-11-21T10:14:40.304798Z,0.71.1,Automatically generates Rust FFI bindings to C and C++ libraries.,https://github.com/rust-lang/rust-bindgen
+libm,125976014,25449486,2024-10-28T23:34:17.848955Z,2018-07-14T00:41:38.320191Z,0.2.11,libm in pure Rust,https://github.com/rust-lang/libm
+ordered-float,125878913,22229077,2025-02-17T23:54:22.687988Z,2014-11-11T06:37:25.077211Z,5.0.0,Wrappers for total ordering on floats,https://github.com/reem/rust-ordered-float
+stable_deref_trait,125670810,31820727,2020-07-13T00:17:49.061392Z,2017-03-09T00:11:41.776380Z,1.2.0,"An unsafe marker trait for types like Box and Rc that dereference to a stable address even when moved, and hence can be used with libraries such as owning_ref and rental.
+",https://github.com/storyyeller/stable_deref_trait
+linked-hash-map,125287683,14269665,2022-06-25T19:52:40.173594Z,2015-03-18T18:42:16.535145Z,0.5.6,A HashMap wrapper that holds key-value pairs in insertion order,https://github.com/contain-rs/linked-hash-map
+zstd-safe,125102035,22717547,2025-03-20T14:47:49.625660Z,2017-06-05T01:23:34.324227Z,7.2.4,Safe low-level bindings for the zstd compression library.,https://github.com/gyscos/zstd-rs
+core-foundation-sys,124253162,20958870,2024-08-11T00:48:27.870880Z,2015-10-17T23:55:36.632904Z,0.8.7,Bindings to Core Foundation for macOS,https://github.com/servo/core-foundation-rs
+zstd,123913697,22552035,2025-02-20T21:43:13.047065Z,2016-02-22T19:09:34.558501Z,0.13.3,Binding for the zstd compression library.,https://github.com/gyscos/zstd-rs
+deranged,122246464,32353465,2025-03-23T20:25:41.702180Z,2020-12-10T09:24:35.476288Z,0.4.0,Ranged integers,https://github.com/jhpratt/deranged
+derive_more,121330455,24728102,2025-02-03T20:18:01.121847Z,2016-03-28T22:50:21.567980Z,2.0.1,Adds #[derive(x)] macros for more traits,https://github.com/JelteF/derive_more
+filetime,121241579,18213154,2024-08-27T20:41:13.398704Z,2015-05-04T23:11:08.402484Z,0.2.25,"Platform-agnostic accessors of timestamps in File metadata
+",https://github.com/alexcrichton/filetime
+prettyplease,120941557,26987324,2025-04-04T22:32:28.491214Z,2022-01-04T17:24:55.368876Z,0.2.32,A minimal `syn` syntax tree pretty-printer,https://github.com/dtolnay/prettyplease
+num-iter,120406308,21269011,2024-05-04T00:23:07.912201Z,2016-04-14T07:38:23.772296Z,0.1.45,External iterators for generic mathematics,https://github.com/rust-num/num-iter
+num-complex,120153402,20991151,2025-01-25T00:38:03.406755Z,2016-04-14T07:30:01.269978Z,0.4.6,Complex numbers implementation for Rust,https://github.com/rust-num/num-complex
+matches,118666595,6854273,2023-01-21T21:21:50.529117Z,2014-12-04T18:37:50.953491Z,0.1.10,"A macro to evaluate, as a boolean, whether an expression matches a pattern.",https://github.com/SimonSapin/rust-std-candidates
+web-sys,118440045,19829110,2025-01-12T23:18:43.343315Z,2018-07-19T19:42:48.824097Z,0.3.77,"Bindings for all Web APIs, a procedurally generated crate from WebIDL
+",https://github.com/rustwasm/wasm-bindgen/tree/master/crates/web-sys
+overload,117302653,25726146,2019-08-10T16:25:33.244486Z,2019-08-06T16:31:47.418402Z,0.1.1,Provides a macro to simplify operator overloading.,https://github.com/danaugrs/overload
+home,115483363,23510034,2024-12-16T15:41:39.426215Z,2017-07-18T23:38:10.759249Z,0.5.11,Shared definitions of home directories.,https://github.com/rust-lang/cargo
+cipher,115150869,17227171,2025-02-22T19:04:35.531995Z,2015-06-25T05:47:45.505637Z,0.5.0-pre.8,Traits for describing block ciphers and stream ciphers,https://github.com/RustCrypto/traits
+pest,113770001,19484045,2025-03-25T06:55:01.914074Z,2016-04-24T09:55:32.814830Z,2.8.0,The Elegant Parser,https://github.com/pest-parser/pest
+serde_yaml,113599243,21245104,2024-03-25T00:50:19.759577Z,2016-02-27T06:46:34.205590Z,0.9.34+deprecated,YAML data format for Serde,https://github.com/dtolnay/serde-yaml
+bit-vec,113343122,24716531,2024-07-16T17:14:52.246887Z,2015-06-03T00:24:01.452515Z,0.8.0,A vector of bits,https://github.com/contain-rs/bit-vec
+axum,112542197,27117502,2025-03-28T16:28:21.427925Z,2021-07-22T13:52:05.710239Z,0.8.3,Web framework that focuses on ergonomics and modularity,https://github.com/tokio-rs/axum
+prost-build,112508816,21183219,2025-02-12T06:59:48.725436Z,2017-06-25T07:40:34.848805Z,0.13.5,Generate Prost annotated Rust types from Protocol Buffers files.,https://github.com/tokio-rs/prost
+zstd-sys,111390797,20625003,2025-03-20T14:47:34.266906Z,2017-03-24T19:18:12.206468Z,2.0.15+zstd.1.5.7,Low-level bindings for the zstd compression library.,https://github.com/gyscos/zstd-rs
+lazycell,111044386,15753989,2020-08-12T01:11:24.894126Z,2016-03-16T03:02:26.011690Z,1.3.0,A library providing a lazily filled Cell struct,https://github.com/indiv0/lazycell
+axum-core,110948307,27016740,2025-03-28T16:28:00.340262Z,2021-08-21T16:52:01.594341Z,0.5.2,Core types and traits for axum,https://github.com/tokio-rs/axum
+der,110791268,28165292,2024-08-18T19:37:31.061995Z,2020-12-17T19:20:36.976898Z,0.8.0-rc.1,"Pure Rust embedded-friendly implementation of the Distinguished Encoding Rules
+(DER) for Abstract Syntax Notation One (ASN.1) as described in ITU X.690 with
+full support for heapless no_std targets
+",https://github.com/RustCrypto/formats
+dashmap,110648621,19617944,2025-03-05T17:04:26.384140Z,2019-08-25T18:22:12.397782Z,7.0.0-rc2,Blazing fast concurrent HashMap for Rust.,https://github.com/xacrimon/dashmap
+signature,110647737,23365688,2025-02-20T09:23:30.867051Z,2018-10-30T23:56:33.764106Z,2.3.0-pre.6,"Traits for cryptographic signature algorithms (e.g. ECDSA, Ed25519)",https://github.com/RustCrypto/traits
+crossbeam-queue,110382410,14771946,2024-12-15T15:26:54.563210Z,2018-09-08T19:05:07.396126Z,0.3.12,Concurrent queues,https://github.com/crossbeam-rs/crossbeam
+semver-parser,109297936,9319264,2024-11-18T23:14:40.706078Z,2016-05-12T00:45:58.800365Z,0.10.3,"Parsing of the semver spec.
+",https://github.com/steveklabnik/semver-parser
+openssl-macros,109250156,22119569,2023-04-01T13:58:02.902200Z,2022-05-03T01:02:41.264300Z,0.1.1,Internal macros used by the openssl crate.,
+tokio-native-tls,109173601,18416000,2023-02-07T17:08:45.567482Z,2020-04-03T14:28:46.429426Z,0.3.1,"An implementation of TLS/SSL streams for Tokio using native-tls giving an implementation of TLS
+for nonblocking I/O streams.
+",https://github.com/tokio-rs/tls
+async-channel,108755930,24244788,2024-05-16T01:34:44.810872Z,2019-05-06T13:07:43.086764Z,2.3.1,Async multi-producer multi-consumer channel,https://github.com/smol-rs/async-channel
+futures-lite,108428380,23039347,2025-01-12T02:31:27.608134Z,2020-05-31T09:53:26.285174Z,2.6.0,"Futures, streams, and async I/O combinators",https://github.com/smol-rs/futures-lite
+async-stream,108191321,20600572,2024-10-01T19:36:32.827442Z,2019-06-07T03:31:34.275797Z,0.3.6,Asynchronous streams using async & await notation,https://github.com/tokio-rs/async-stream
+data-encoding,108145063,21790578,2025-02-09T10:55:07.032768Z,2015-12-05T14:17:01.338342Z,2.8.0,"Efficient and customizable data-encoding functions like base64, base32, and hex",https://github.com/ia0/data-encoding
+tonic,108118647,21542971,2025-03-25T19:14:06.433343Z,2018-07-18T06:55:22.955614Z,0.13.0,"A gRPC over HTTP/2 implementation focused on high performance, interoperability, and flexibility.
+",https://github.com/hyperium/tonic
+bincode,108048097,16496392,2025-03-10T18:28:08.334006Z,2014-11-20T20:03:47.604153Z,2.0.1,A binary serialization / deserialization strategy for transforming structs into bytes and vice versa!,https://github.com/bincode-org/bincode
+async-stream-impl,108044232,20576720,2024-10-01T19:35:11.626317Z,2019-08-13T21:33:30.729487Z,0.3.6,proc macros for async-stream crate,https://github.com/tokio-rs/async-stream
+zerocopy-derive,107950362,40002259,2025-04-08T17:46:04.208548Z,2019-02-28T01:15:28.169767Z,0.9.0-alpha.0,Custom derive for traits from the zerocopy crate,https://github.com/google/zerocopy
+serde_spanned,107883536,28207613,2024-09-25T19:07:21.220911Z,2023-01-20T21:28:32.749591Z,0.6.8,Serde-compatible spanned Value,https://github.com/toml-rs/toml
+ucd-trie,105924503,18838106,2024-09-29T12:17:30.563304Z,2018-03-06T02:30:39.993421Z,0.1.7,"A trie for storing Unicode codepoint sets and maps.
+",https://github.com/BurntSushi/ucd-generate
+dirs,105907467,13495009,2025-01-12T17:19:23.581020Z,2015-11-24T00:11:15.764867Z,6.0.0,"A tiny low-level library that provides platform-specific standard locations of directories for config, cache and other data on Linux, Windows, macOS and Redox by leveraging the mechanisms defined by the XDG base/user directory specifications on Linux, the Known Folder API on Windows, and the Standard Directory guidelines on macOS.",https://github.com/soc/dirs-rs
+io-lifetimes,105814601,9067393,2024-12-04T01:31:02.426034Z,2021-06-12T18:57:46.951916Z,2.0.4,A low-level I/O ownership and borrowing library,https://github.com/sunfishcode/io-lifetimes
+crunchy,105646359,22818714,2025-01-22T11:30:05.799441Z,2017-07-18T13:28:08.599993Z,0.2.3,Crunchy unroller: deterministically unroll constant loops,https://github.com/eira-fransham/crunchy
+os_str_bytes,105529917,10016303,2025-02-21T03:57:36.408573Z,2019-11-28T22:56:27.497950Z,7.1.0,"Lossless functionality for platform-native strings
+",https://github.com/dylni/os_str_bytes
+spki,105220719,27492989,2024-10-08T03:34:48.376711Z,2020-12-03T00:57:56.316288Z,0.8.0-rc.1,"X.509 Subject Public Key Info (RFC5280) describing public keys as well as their
+associated AlgorithmIdentifiers (i.e. OIDs)
+",https://github.com/RustCrypto/formats
+memmap2,105108067,19280728,2024-09-13T16:09:38.606497Z,2020-01-18T14:19:42.096696Z,0.9.5,Cross-platform Rust API for memory-mapped file IO,https://github.com/RazrFalcon/memmap2-rs
+powerfmt,104959292,31164318,2023-10-13T22:04:23.598335Z,2023-10-08T08:18:17.681438Z,0.2.0,"    `powerfmt` is a library that provides utilities for formatting values. This crate makes it
+    significantly easier to support filling to a minimum width with alignment, avoid heap
+    allocation, and avoid repetitive calculations.
+",https://github.com/jhpratt/powerfmt
+vec_map,104809875,8461513,2020-05-06T13:38:10.140555Z,2015-05-04T02:11:35.894139Z,0.8.2,A simple map based on a vector for small integer keys,https://github.com/contain-rs/vec-map
+dirs-sys,104417571,15026262,2025-01-11T22:10:02.119353Z,2019-05-12T20:19:45.913839Z,0.5.0,System-level helper functions for the dirs and directories crates.,https://github.com/dirs-dev/dirs-sys-rs
+clang-sys,104323345,18198461,2024-09-25T01:20:28.678885Z,2015-12-22T20:19:27.074026Z,1.8.1,Rust bindings for libclang.,https://github.com/KyleMayes/clang-sys
+serde_with,104086876,23058781,2024-12-25T22:01:32.382863Z,2017-08-17T21:50:27.312670Z,3.12.0,Custom de/serialization functions for Rust's serde,https://github.com/jonasbb/serde_with/
+matchit,103844319,26182747,2025-01-02T22:51:10.969517Z,2020-12-21T17:41:53.171988Z,0.8.6,"A high performance, zero-copy URL router.",https://github.com/ibraheemdev/matchit
+allocator-api2,103343614,27945608,2024-12-01T14:49:16.555989Z,2023-02-27T08:40:54.775171Z,0.2.21,Mirror of Rust's allocator API,https://github.com/zakarumych/allocator-api2
+bit-set,102231309,23549950,2024-07-16T17:18:45.390925Z,2015-06-03T01:12:47.369506Z,0.8.0,A set of bits,https://github.com/contain-rs/bit-set
+serde_with_macros,102169761,22685339,2024-12-25T22:01:20.600105Z,2019-04-02T19:59:37.282350Z,3.12.0,proc-macro library for serde_with,https://github.com/jonasbb/serde_with/
+aes,102144691,15017037,2025-03-07T14:27:54.630837Z,2016-10-06T21:22:19.164040Z,0.9.0-pre.3,Pure Rust implementation of the Advanced Encryption Standard (a.k.a. Rijndael),https://github.com/RustCrypto/block-ciphers
+constant_time_eq,102069635,17752854,2025-03-15T17:03:47.885264Z,2015-05-22T02:07:15.678036Z,0.4.2,Compares two equal-sized byte strings in constant time.,https://github.com/cesarb/constant_time_eq
+proc-macro-hack,102006539,5968753,2022-12-19T18:23:34.874100Z,2016-12-30T22:31:38.178246Z,0.5.20+deprecated,Procedural macros in expression position,https://github.com/dtolnay/proc-macro-hack
+pkcs8,101460439,26832257,2025-02-15T00:33:11.105691Z,2020-06-12T14:01:14.160533Z,0.11.0-rc.2,"Pure Rust implementation of Public-Key Cryptography Standards (PKCS) #8:
+Private-Key Information Syntax Specification (RFC 5208), with additional
+support for PKCS#8v2 asymmetric key packages (RFC 5958)
+",https://github.com/RustCrypto/formats
+indoc,101308758,20498181,2025-03-03T23:32:31.175928Z,2016-03-19T07:03:31.602187Z,2.0.6,Indented document literals,https://github.com/dtolnay/indoc
+md-5,101200869,16168884,2025-03-05T21:16:47.724779Z,2017-04-06T15:22:37.614943Z,0.11.0-pre.5,MD5 hash function,https://github.com/RustCrypto/hashes
+concurrent-queue,101087585,20808312,2024-04-26T14:26:18.816602Z,2020-05-17T16:08:47.117572Z,2.5.0,Concurrent multi-producer multi-consumer queue,https://github.com/smol-rs/concurrent-queue
+core-foundation,101065451,20406736,2024-08-11T05:37:53.580329Z,2015-02-12T10:50:45.593830Z,0.10.0,Bindings to Core Foundation for macOS,https://github.com/servo/core-foundation-rs
+cexpr,99922577,17832034,2021-10-11T09:31:52.220209Z,2016-07-13T05:40:52.032296Z,0.6.0,A C expression parser and evaluator,https://github.com/jethrogb/rust-cexpr
+sha-1,99748485,7325511,2022-11-28T15:23:38.331317Z,2017-04-06T15:22:59.179268Z,0.10.1,SHA-1 hash function. This crate is deprecated! Use the sha1 crate instead.,https://github.com/RustCrypto/hashes
+libz-sys,99712576,15340826,2025-03-15T04:10:36.389218Z,2014-11-11T06:38:26.586055Z,1.1.22,Low-level bindings to the system libz library (also known as zlib).,https://github.com/rust-lang/libz-sys
+mime_guess,99516154,15814815,2024-06-29T07:32:21.605352Z,2015-07-04T21:29:52.384284Z,2.0.5,A simple crate for detection of a file's MIME type by its extension.,https://github.com/abonander/mime_guess
+target-lexicon,99473360,21905330,2025-02-07T20:46:40.742202Z,2018-05-24T19:59:42.278674Z,0.13.2,LLVM target triple types,https://github.com/bytecodealliance/target-lexicon
+multimap,99309639,18295847,2024-01-15T22:44:06.801518Z,2015-04-24T16:19:20.896573Z,0.10.0,A multimap implementation.,https://github.com/havarnov/multimap
+bytemuck,99285220,20899590,2025-03-03T04:19:56.729821Z,2019-09-22T19:07:58.696010Z,1.22.0,A crate for mucking around with piles of bytes.,https://github.com/Lokathor/bytemuck
+async-lock,98336339,19556299,2024-06-01T14:37:52.663679Z,2019-05-22T20:50:55.568552Z,3.4.0,Async synchronization primitives,https://github.com/smol-rs/async-lock
+wasm-bindgen-futures,97237400,17516575,2025-01-12T23:18:55.037907Z,2018-08-13T21:35:58.500192Z,0.4.50,Bridging the gap between Rust Futures and JavaScript Promises,https://github.com/rustwasm/wasm-bindgen/tree/master/crates/futures
+arc-swap,96109256,17313188,2024-03-23T10:40:35.441856Z,2018-04-16T07:00:39.250384Z,1.7.1,Atomically swappable Arc,https://github.com/vorner/arc-swap
+remove_dir_all,95677322,5049172,2024-11-22T13:28:04.656448Z,2017-03-29T00:02:22.651612Z,1.0.0,"A safe, reliable implementation of remove_dir_all for Windows",https://github.com/XAMPPRocky/remove_dir_all.git
+const-oid,95259913,22191855,2025-04-08T12:32:00.586593Z,2020-08-04T15:51:24.822805Z,0.10.1,"Const-friendly implementation of the ISO/IEC Object Identifier (OID) standard
+as defined in ITU X.660, with support for BER/DER encoding/decoding as well as
+heapless no_std (i.e. embedded) support
+",https://github.com/RustCrypto/formats
+webpki,94129638,4300224,2023-10-09T00:31:09.299041Z,2016-08-16T01:33:53.951242Z,0.22.4,Web PKI X.509 Certificate Verification.,https://github.com/briansmith/webpki
+base64ct,94100874,20956214,2025-03-13T18:56:37.952384Z,2021-01-21T19:26:20.080406Z,1.7.3,"Pure Rust implementation of Base64 (RFC 4648) which avoids any usages of
+data-dependent branches/LUTs and thereby provides portable ""best effort""
+constant-time operation and embedded-friendly no_std support
+",https://github.com/RustCrypto/formats
+pem,94075896,21113262,2025-02-21T14:37:03.781063Z,2016-02-27T18:57:14.248270Z,3.0.5,Parse and encode PEM-encoded data.,https://github.com/jcreekmore/pem-rs.git
+num,93911878,15329384,2025-01-25T00:57:47.642450Z,2014-11-11T05:37:31.772551Z,0.4.3,"A collection of numeric types and traits for Rust, including bigint,
+complex, rational, range iterators, generic integers, and more!
+",https://github.com/rust-num/num
+quick-xml,93792558,24301523,2025-04-01T08:34:49.856839Z,2016-02-01T05:38:26.023287Z,0.37.4,High performance xml reader and writer,https://github.com/tafia/quick-xml
+lru,93608465,16463896,2025-01-28T00:30:45.494308Z,2016-12-31T13:49:16.056740Z,0.13.0,A LRU cache implementation,https://github.com/jeromefroe/lru-rs.git
+parking,93054131,20345564,2024-09-07T17:39:03.956479Z,2020-05-16T14:40:51.599742Z,2.2.1,Thread parking and unparking,https://github.com/smol-rs/parking
+pest_derive,93050841,17801704,2025-03-25T06:57:22.971024Z,2017-08-15T16:12:13.196790Z,2.8.0,pest's derive macro,https://github.com/pest-parser/pest
+csv,92176319,12840640,2024-11-09T12:51:17.632722Z,2014-11-21T00:11:41.885162Z,1.3.1,Fast CSV parsing with support for serde.,https://github.com/BurntSushi/rust-csv
+pest_meta,91968172,17754711,2025-03-25T06:55:35.824827Z,2018-09-30T03:32:45.102540Z,2.8.0,pest meta language parser and validator,https://github.com/pest-parser/pest
+pest_generator,91862616,17726273,2025-03-25T06:56:46.588851Z,2018-10-01T05:22:47.236630Z,2.8.0,pest code generator,https://github.com/pest-parser/pest
+bitvec,91764516,17921877,2022-07-10T03:51:17.388090Z,2018-06-28T06:28:54.134674Z,1.0.1,"Addresses memory by bits, for packed collections and bitfields",https://github.com/bitvecto-rs/bitvec
+atomic-waker,91076920,25141724,2023-09-25T17:45:09.388277Z,2020-05-29T09:54:53.291330Z,1.1.2,A synchronization primitive for task wakeup,https://github.com/smol-rs/atomic-waker
+console,90911441,15597606,2025-03-01T22:18:16.714733Z,2017-05-09T11:53:13.825478Z,0.15.11,A terminal and console abstraction for Rust,https://github.com/console-rs/console
+csv-core,90403140,12784458,2025-02-12T16:08:33.328351Z,2017-05-23T01:28:33.952564Z,0.1.12,Bare bones CSV parsing with no_std support.,https://github.com/BurntSushi/rust-csv
+radium,89965415,17862709,2023-11-26T18:58:47.251586Z,2019-05-26T22:33:54.460244Z,1.1.0,Portable interfaces for maybe-atomic types,https://github.com/ferrilab/ferrilab
+rand_hc,89858971,8502837,2025-01-27T14:40:07.647563Z,2018-10-30T09:53:01.939542Z,0.4.0,"HC128 random number generator
+",https://github.com/rust-random/rngs
+phf_codegen,89584939,15551453,2025-01-06T20:33:52.154793Z,2015-02-22T20:49:07.396790Z,0.11.3,Codegen library for PHF types,https://github.com/rust-phf/rust-phf
+hyper-timeout,89495212,21855343,2024-11-03T19:44:30.127358Z,2017-07-15T01:32:03.275740Z,0.5.2,"A connect, read and write timeout aware connector to be used with hyper Client.",https://github.com/hjr3/hyper-timeout
+num-conv,88645464,30586771,2023-12-23T08:52:41.119523Z,2023-12-23T08:52:41.119523Z,0.1.0,"`num_conv` is a crate to convert between integer types without using `as` casts. This provides
+better certainty when refactoring, makes the exact behavior of code more explicit, and allows using
+turbofish syntax.
+",https://github.com/jhpratt/num-conv
+polling,88597159,17464592,2024-11-07T15:28:40.971957Z,2020-08-06T13:17:41.554742Z,3.7.4,"Portable interface to epoll, kqueue, event ports, and IOCP",https://github.com/smol-rs/polling
+derivative,87439528,12231791,2021-01-23T17:05:39.339355Z,2016-10-07T23:35:58.354746Z,2.2.0,A set of alternative `derive` attributes for Rust,https://github.com/mcarton/rust-derivative
+security-framework,87415137,17802444,2025-01-07T16:04:15.335636Z,2015-11-27T22:17:03.528149Z,3.2.0,Security.framework bindings for macOS and iOS,https://github.com/kornelski/rust-security-framework
+winreg,87400856,11121589,2025-01-12T22:15:39.272222Z,2015-04-17T22:26:16.702190Z,0.55.0,Rust bindings to MS Windows Registry API,https://github.com/gentoo90/winreg-rs
+criterion,87205410,17678205,2023-05-26T08:59:50.811468Z,2017-12-02T23:43:19.376458Z,0.5.1,Statistics-driven micro-benchmarking library,https://github.com/bheisler/criterion.rs
+tap,86471008,18032317,2021-02-13T02:43:25.525644Z,2017-06-24T22:48:02.471590Z,1.0.1,Generic extensions for tapping values in Rust,https://github.com/myrrlyn/tap
+funty,85825407,17743730,2023-01-29T04:40:16.975264Z,2020-02-24T03:26:45.809913Z,3.0.0-rc2,Trait generalization over the primitive types,https://github.com/ferrilab/ferrilab
+wyz,85397616,17778103,2022-11-16T04:54:37.181940Z,2019-09-22T02:52:16.932380Z,0.6.1,myrrlyn’s utility collection,https://github.com/myrrlyn/wyz
+security-framework-sys,84560277,15827467,2025-01-07T16:00:44.965072Z,2015-11-27T22:16:51.749519Z,2.14.0,Apple `Security.framework` low-level FFI bindings,https://github.com/kornelski/rust-security-framework
+arrayref,84415097,13680369,2024-09-14T12:24:40.788186Z,2015-08-24T18:49:31.735963Z,0.3.9,Macros to take array references of slices,https://github.com/droundy/arrayref
+block-padding,84121390,8269840,2025-02-22T16:13:02.376076Z,2018-02-20T13:54:53.959408Z,0.4.0-rc.3,Padding and unpadding of messages divided into blocks.,https://github.com/RustCrypto/utils
+crypto-mac,84035708,5450556,2021-07-20T13:10:34.870407Z,2016-10-14T15:22:47.584215Z,0.11.1,Trait for Message Authentication Code (MAC) algorithms,https://github.com/RustCrypto/traits
+tungstenite,83929405,14341476,2025-02-18T10:51:41.206384Z,2017-03-17T16:50:05.505222Z,0.26.2,Lightweight stream-based WebSocket implementation,https://github.com/snapview/tungstenite-rs
+schannel,83864436,15349572,2024-11-19T08:42:19.178581Z,2015-10-19T14:53:41.310471Z,0.1.27,"Schannel bindings for rust, allowing SSL/TLS (e.g. https) without openssl",https://github.com/steffengy/schannel-rs
+combine,83804641,15439742,2024-04-10T09:56:27.206101Z,2015-07-17T14:19:14.002384Z,4.6.7,Fast parser combinators on arbitrary streams with zero-copy support.,https://github.com/Marwes/combine
+num_enum,82718828,16108190,2024-07-29T12:49:42.149865Z,2018-11-12T00:11:02.762349Z,0.7.3,Procedural macros to make inter-operation between primitives and enums easier.,https://github.com/illicitonion/num_enum
+num_enum_derive,82590137,16104358,2024-07-29T12:45:05.316346Z,2019-08-09T22:18:28.695283Z,0.7.3,Internal implementation details for ::num_enum (Procedural macros to make inter-operation between primitives and enums easier),https://github.com/illicitonion/num_enum
+cast,82099861,15810403,2021-09-04T11:07:33.449935Z,2016-02-07T20:43:08.957175Z,0.3.0,"Ergonomic, checked cast functions for primitive types",https://github.com/japaric/cast.rs
+windows,82086376,19789128,2025-03-18T19:11:29.737188Z,2019-01-15T00:13:05.848555Z,0.61.1,Rust for Windows,https://github.com/microsoft/windows-rs
+async-io,81448829,15113471,2024-11-07T20:45:52.919545Z,2019-05-18T10:59:20.102722Z,2.4.0,Async I/O and timers,https://github.com/smol-rs/async-io
+rand_xorshift,81352334,14743598,2025-01-27T14:40:36.244226Z,2018-10-04T09:45:08.645922Z,0.4.0,"Xorshift random number generator
+",https://github.com/rust-random/rngs
+pbkdf2,81256539,12360329,2024-07-27T20:54:58.055110Z,2017-02-28T15:23:53.287798Z,0.13.0-pre.1,Generic implementation of PBKDF2,https://github.com/RustCrypto/password-hashes
+scoped-tls,80778562,12354692,2022-10-31T15:01:56.394137Z,2016-03-23T16:35:10.496904Z,1.0.1,"Library implementation of the standard library's old `scoped_thread_local!`
+macro for providing scoped access to thread local storage (TLS) so any type can
+be stored into TLS.
+",https://github.com/alexcrichton/scoped-tls
+num_threads,79790376,12289847,2024-02-15T02:51:38.770784Z,2021-11-15T05:19:12.536893Z,0.1.7,A minimal library that determines the number of running threads for the current process.,https://github.com/jhpratt/num_threads
+android_system_properties,79719150,17181183,2022-08-30T10:42:28.363547Z,2022-06-27T18:37:55.464346Z,0.1.5,Minimal Android system properties wrapper,https://github.com/nical/android_system_properties
+tinytemplate,78425527,15352547,2021-03-04T00:05:08.069396Z,2019-01-19T16:42:26.192003Z,1.2.1,"Simple, lightweight template engine",https://github.com/bheisler/TinyTemplate
+displaydoc,78414776,30875301,2024-06-20T21:51:42.769781Z,2019-10-10T02:29:31.389536Z,0.2.5,"A derive macro for implementing the display Trait via a doc comment and string interpolation
+",https://github.com/yaahc/displaydoc
+criterion-plot,78331509,15436394,2022-09-10T17:48:08.968537Z,2016-02-26T23:04:18.130991Z,0.5.0,Criterion's plotting library,https://github.com/bheisler/criterion.rs
+oorandom,78260810,15893475,2025-03-07T13:10:16.263607Z,2019-07-15T22:52:00.911246Z,11.1.5,"A tiny, robust PRNG implementation.",https://hg.sr.ht/~icefox/oorandom
+tonic-build,78194045,14943164,2025-03-25T19:14:13.608442Z,2019-09-10T15:56:35.568394Z,0.13.0,"Codegen module of `tonic` gRPC implementation.
+",https://github.com/hyperium/tonic
+globset,78174132,11874250,2025-02-27T17:47:05.577701Z,2016-10-11T00:07:33.117536Z,0.4.16,"Cross platform single glob and glob set matching. Glob set matching is the
+process of matching one or more glob patterns against a single candidate path
+simultaneously, and returning all of the globs that matched.
+",https://github.com/BurntSushi/ripgrep/tree/master/crates/globset
+urlencoding,77865696,15114172,2023-07-21T15:12:17.534094Z,2016-09-15T10:44:56.997351Z,2.1.3,A Rust library for doing URL percentage encoding.,https://github.com/kornelski/rust_urlencoding
+dyn-clone,77774097,16343144,2025-03-03T23:26:49.073259Z,2019-12-23T06:48:24.186057Z,1.0.19,Clone trait that is dyn-compatible,https://github.com/dtolnay/dyn-clone
+unindent,77748743,16394261,2025-03-03T23:32:26.449483Z,2016-07-17T21:11:22.557375Z,0.2.4,Remove a column of leading whitespace from a string,https://github.com/dtolnay/indoc
+portable-atomic,77620119,24047599,2025-02-24T13:31:07.731833Z,2022-02-24T03:15:21.449241Z,1.11.0,"Portable atomic types including support for 128-bit atomics, atomic float, etc.
+",https://github.com/taiki-e/portable-atomic
+hostname,77585077,11289321,2025-04-08T08:10:29.607795Z,2016-12-13T12:47:54.090323Z,0.4.1,Cross-platform system's host name functions,https://github.com/svartalf/hostname
+cargo_metadata,77448261,12294511,2025-03-02T16:12:24.044104Z,2017-01-24T10:16:04.030507Z,0.19.2,structured access to the output of `cargo metadata`,https://github.com/oli-obk/cargo_metadata
+fallible-iterator,77185944,12584011,2023-05-22T23:12:37.497125Z,2016-05-06T16:53:35.239726Z,0.3.0,Fallible iterator traits,https://github.com/sfackler/rust-fallible-iterator
+opentelemetry,77156752,17206114,2025-04-02T14:47:58.715578Z,2019-11-08T20:41:11.251122Z,0.29.1,OpenTelemetry API for Rust,https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry
+utf-8,76774679,12498556,2021-04-16T14:55:34.691346Z,2015-10-29T16:30:25.738814Z,0.7.6,"Incremental, zero-copy UTF-8 decoding with error handling",https://github.com/SimonSapin/rust-utf8
+tower-http,76683778,18249863,2024-11-18T19:30:58.685083Z,2017-03-10T04:36:50.296787Z,0.6.2,Tower middleware and utilities for HTTP clients and servers,https://github.com/tower-rs/tower-http
+rustls-pki-types,76566147,29252277,2025-01-27T14:17:48.613462Z,2023-08-31T09:09:47.215663Z,1.11.0,Shared types for the rustls PKI ecosystem,https://github.com/rustls/pki-types
+peeking_take_while,76300310,7895316,2021-09-03T17:58:50.443671Z,2017-05-17T00:42:53.962618Z,1.0.0,"Like `Iterator::take_while`, but calls the predicate on a peeked value. This allows you to use `Iterator::by_ref` and `Iterator::take_while` together, and still get the first value for which the `take_while` predicate returned false after dropping the `by_ref`.",https://github.com/fitzgen/peeking_take_while
+zeroize_derive,76287056,13798494,2023-03-31T02:07:19.386562Z,2019-03-23T21:12:27.537530Z,1.4.2,Custom derive support for zeroize,https://github.com/RustCrypto/utils/tree/master/zeroize/derive
+predicates,76058580,12755928,2024-12-19T18:53:32.360850Z,2017-06-02T17:07:01.532559Z,3.1.3,An implementation of boolean-valued predicate functions.,https://github.com/assert-rs/predicates-rs
+tracing-serde,75809933,18186919,2024-11-27T21:24:29.884640Z,2019-06-27T22:08:23.362922Z,0.2.0,"A compatibility layer for serializing trace data with `serde`
+",https://github.com/tokio-rs/tracing
+dirs-sys-next,75052349,9753666,2021-01-09T05:59:36.540586Z,2020-05-06T15:47:35.608863Z,0.1.2,system-level helper functions for the dirs and directories crates,https://github.com/xdg-rs/dirs/tree/master/dirs-sys
+serde_bytes,75051734,13320516,2025-03-09T20:51:20.832664Z,2017-04-08T05:15:16.364612Z,0.11.17,Optimized handling of `&[u8]` and `Vec<u8>` for Serde,https://github.com/serde-rs/bytes
+yaml-rust,74878702,5502671,2021-01-03T19:58:30.295058Z,2015-06-04T08:32:01.133062Z,0.4.5,The missing YAML 1.2 parser for rust,https://github.com/chyh1990/yaml-rust
+pyo3-build-config,74391305,21891956,2025-03-31T21:05:40.181849Z,2021-05-25T06:25:05.705827Z,0.24.1,Build configuration for the PyO3 ecosystem,https://github.com/pyo3/pyo3
+tiny-keccak,74256209,16354316,2020-04-01T14:34:13.119797Z,2015-11-27T10:24:04.913465Z,2.0.2,An implementation of Keccak derived functions.,
+crypto-bigint,74157871,16381017,2025-02-18T22:37:41.950300Z,2021-04-30T19:41:39.805312Z,0.7.0-pre.0,"Pure Rust implementation of a big integer library which has been designed from
+the ground-up for use in cryptographic applications. Provides constant-time,
+no_std-friendly implementations of modern formulas using const generics.
+",https://github.com/RustCrypto/crypto-bigint
+tracing-futures,74139299,7184312,2021-02-16T21:17:03.683426Z,2019-06-27T22:04:57.142995Z,0.2.5,"Utilities for instrumenting `futures` with `tracing`.
+",https://github.com/tokio-rs/tracing
+signal-hook,73541750,9083336,2023-07-18T15:21:46.884143Z,2018-06-22T17:38:56.065914Z,0.3.17,Unix signal handling,https://github.com/vorner/signal-hook
+is_terminal_polyfill,73508640,29115034,2024-07-25T13:51:50.036695Z,2024-05-02T17:55:24.459203Z,1.70.1,Polyfill for `is_terminal` stdlib feature for use with older MSRVs,https://github.com/polyfill-rs/is_terminal_polyfill
+rand_pcg,73242224,6380706,2025-01-27T13:38:15.140218Z,2018-10-04T09:46:15.905354Z,0.9.0,"Selected PCG random number generators
+",https://github.com/rust-random/rand
+iana-time-zone-haiku,73229672,16530895,2023-05-12T08:43:45.406909Z,2022-10-08T17:07:12.928972Z,0.1.2,iana-time-zone support crate for Haiku OS,https://github.com/strawlab/iana-time-zone
+pem-rfc7468,73123817,21426746,2024-10-15T20:03:30.229881Z,2021-02-16T16:40:33.169667Z,1.0.0-rc.2,"PEM Encoding (RFC 7468) for PKIX, PKCS, and CMS Structures, implementing a
+strict subset of the original Privacy-Enhanced Mail encoding intended
+specifically for use with cryptographic keys, certificates, and other messages.
+Provides a no_std-friendly, constant-time implementation suitable for use with
+cryptographic private keys.
+",https://github.com/RustCrypto/formats
+cfg_aliases,73075623,24741661,2024-05-10T16:29:14.741823Z,2020-04-05T15:56:29.360016Z,0.2.1,A tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks.,https://github.com/katharostech/cfg_aliases
+waker-fn,72961347,11046856,2024-05-13T00:24:30.171231Z,2020-05-16T17:22:12.647555Z,1.2.0,Convert closures into wakers,https://github.com/smol-rs/waker-fn
+cookie,72822386,10578374,2024-03-25T09:39:10.390155Z,2014-11-22T04:01:16.924470Z,0.18.1,"HTTP cookie parsing and cookie jar management. Supports signed and private
+(encrypted, authenticated) jars.
+",https://github.com/SergioBenitez/cookie-rs
+tokio-tungstenite,72773849,12807349,2025-02-18T10:55:41.699176Z,2017-03-17T17:27:49.033103Z,0.26.2,"Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation",https://github.com/snapview/tokio-tungstenite
+terminal_size,72658854,11909891,2025-03-08T22:01:52.317858Z,2015-08-26T19:10:31.722938Z,0.4.2,Gets the size of your Linux or Windows terminal,https://github.com/eminence/terminal-size
+plotters,72613315,14771382,2024-09-08T14:48:03.071447Z,2019-04-24T17:22:34.929046Z,0.3.7,A Rust drawing library focus on data plotting for both WASM and native applications,https://github.com/plotters-rs/plotters
+xattr,72571155,12547670,2025-03-06T18:59:23.062689Z,2015-07-10T16:09:41.699659Z,1.5.0,unix extended filesystem attributes,https://github.com/Stebalien/xattr
+diff,72342469,10700886,2022-06-29T01:52:10.836270Z,2015-04-30T08:47:27.336024Z,0.1.13,An LCS based slice and string diffing implementation.,https://github.com/utkarshkukreti/diff.rs
+hkdf,72338842,14451634,2025-03-07T14:52:42.159269Z,2015-01-03T00:12:58.334169Z,0.13.0-pre.5,HMAC-based Extract-and-Expand Key Derivation Function (HKDF),https://github.com/RustCrypto/KDFs/
+pyo3,72086903,16701282,2025-03-31T21:06:18.192069Z,2017-07-23T18:28:44.917432Z,0.24.1,Bindings to Python interpreter,https://github.com/pyo3/pyo3
+tar,72018314,11909576,2025-02-22T00:59:08.196026Z,2014-11-11T00:22:07.358495Z,0.4.44,"A Rust implementation of a TAR file reader and writer. This library does not
+currently handle compression, but it is abstract over all I/O readers and
+writers. Additionally, great lengths are taken to ensure that the entire
+contents are never required to be entirely resident in memory all at once.
+",https://github.com/alexcrichton/tar-rs
+camino,71936694,12678151,2024-08-18T02:02:51.692216Z,2021-02-23T18:20:23.469325Z,1.1.9,UTF-8 paths,https://github.com/camino-rs/camino
+curve25519-dalek,71930041,12446848,2024-06-18T19:20:35.007627Z,2016-12-08T05:13:57.620503Z,4.1.3,A pure-Rust implementation of group operations on ristretto255 and Curve25519,https://github.com/dalek-cryptography/curve25519-dalek/tree/main/curve25519-dalek
+hashlink,71662411,17035146,2024-12-09T11:48:51.357012Z,2019-07-06T10:17:21.361009Z,0.10.0,HashMap-like containers that hold their key-value pairs in a user controllable order,https://github.com/kyren/hashlink
+valuable,71636506,16271719,2025-01-17T00:46:34.256238Z,2021-03-09T18:32:03.666997Z,0.1.1,"Object-safe value inspection, used to pass un-typed structured data across trait-object boundaries.
+",https://github.com/tokio-rs/valuable
+yansi,71167061,13516279,2024-03-13T07:48:07.624195Z,2017-06-02T04:14:59.893274Z,1.0.1,A dead simple ANSI terminal color painting library.,https://github.com/SergioBenitez/yansi
+pyo3-macros-backend,70148327,16582850,2025-03-31T21:05:50.218808Z,2020-12-20T10:04:57.813482Z,0.24.1,Code generation for PyO3 package,https://github.com/pyo3/pyo3
+pyo3-macros,70145804,16581097,2025-03-31T21:05:59.752717Z,2020-12-20T10:05:29.097307Z,0.24.1,Proc macros for PyO3 package,https://github.com/pyo3/pyo3
+plotters-backend,69548758,14723288,2024-09-08T14:46:47.868379Z,2020-01-28T19:52:26.933094Z,0.3.7,Plotters Backend API,https://github.com/plotters-rs/plotters
+crc,69292536,13016176,2024-04-08T16:05:50.419393Z,2015-03-15T19:05:37.390081Z,3.2.1,Rust implementation of CRC with support of various standards,https://github.com/mrhooray/crc-rs.git
+plotters-svg,69087406,14654321,2024-09-08T14:47:23.833784Z,2020-01-28T19:57:33.837634Z,0.3.7,Plotters SVG backend,https://github.com/plotters-rs/plotters.git
+brotli,68638279,15552292,2024-10-02T07:06:27.834692Z,2015-11-30T16:41:44.747454Z,7.0.0,A brotli compressor and decompressor that with an interface avoiding the rust stdlib. This makes it suitable for embedded devices and kernels. It is designed with a pluggable allocator so that the standard lib's allocator may be employed. The default build also includes a stdlib allocator and stream interface. Disable this with --features=no-stdlib. All included code is safe.,https://github.com/dropbox/rust-brotli
+async-task,68377749,12488952,2024-04-27T23:06:20.560257Z,2019-05-07T14:56:54.628954Z,4.7.1,Task abstraction for building executors,https://github.com/smol-rs/async-task
+http-body-util,68331686,26274778,2025-03-11T16:49:40.971587Z,2022-10-25T20:37:59.773380Z,0.1.3,"Combinators and adapters for HTTP request or response bodies.
+",https://github.com/hyperium/http-body
+brotli-decompressor,68277762,13747776,2025-01-21T07:30:59.117035Z,2017-04-25T08:09:43.737166Z,4.0.2,"A brotli decompressor that with an interface avoiding the rust stdlib. This makes it suitable for embedded devices and kernels. It is designed with a pluggable allocator so that the standard lib's allocator may be employed. The default build also includes a stdlib allocator and stream interface. Disable this with --features=no-stdlib. Alternatively, --features=unsafe turns off array bounds checks and memory initialization but provides a safe interface for the caller.  Without adding the --features=unsafe argument, all included code is safe. For compression in addition to this library, download https://github.com/dropbox/rust-brotli ",https://github.com/dropbox/rust-brotli-decompressor
+twox-hash,67880721,17085700,2024-12-09T15:57:24.908629Z,2015-05-09T03:04:03.255761Z,2.1.0,A Rust implementation of the XXHash and XXH3 algorithms,https://github.com/shepmaster/twox-hash
+ctor,67867680,7349418,2025-03-09T02:27:45.463248Z,2018-12-06T05:31:29.960460Z,0.4.1,__attribute__((constructor)) for Rust,https://github.com/mmastrac/rust-ctor
+inout,67550719,14632570,2025-02-22T16:18:09.964996Z,2021-08-13T16:42:36.965539Z,0.2.0-rc.4,Custom reference types for code generic over in-place and buffer-to-buffer modes of operation.,https://github.com/RustCrypto/utils
+hyper-util,67537724,26436947,2025-03-31T18:17:04.308964Z,2022-01-15T00:20:07.067925Z,0.1.11,hyper utilities,https://github.com/hyperium/hyper-util
+dirs-next,67534509,8646854,2020-10-22T03:34:04.786339Z,2020-05-06T15:46:40.488452Z,2.0.0,"A tiny low-level library that provides platform-specific standard locations
+of directories for config, cache and other data on Linux, Windows, macOS
+and Redox by leveraging the mechanisms defined by the XDG base/user
+directory specifications on Linux, the Known Folder API on Windows,
+and the Standard Directory guidelines on macOS.
+",https://github.com/xdg-rs/dirs
+pretty_assertions,67531743,10156353,2024-09-15T13:11:03.148906Z,2017-03-26T23:33:43.680768Z,1.4.1,"Overwrite `assert_eq!` and `assert_ne!` with drop-in replacements, adding colorful diffs.",https://github.com/rust-pretty-assertions/rust-pretty-assertions
+colored,67333435,14431641,2025-01-07T14:10:54.236785Z,2016-03-13T17:27:11.931945Z,3.0.0,The most simple way to add colors in your terminal,https://github.com/mackwic/colored
+tokio-io-timeout,67148274,8825257,2021-12-31T19:12:23.371189Z,2017-06-17T03:30:29.009870Z,1.2.0,Tokio wrappers which apply timeouts to IO operations,https://github.com/sfackler/tokio-io-timeout
+predicates-core,66778165,11030673,2024-12-19T18:53:29.925148Z,2018-07-30T23:24:52.223852Z,1.0.9,An API for boolean-valued predicate functions.,https://github.com/assert-rs/predicates-rs/tree/master/crates/core
+windows-core,66767824,24772680,2025-03-18T14:26:00.415140Z,2021-11-15T18:04:53.482359Z,0.61.0,Core type support for COM and Windows,https://github.com/microsoft/windows-rs
+num-derive,66750519,11998440,2024-02-06T21:00:45.637968Z,2016-09-30T06:43:39.517757Z,0.4.2,Numeric syntax extensions,https://github.com/rust-num/num-derive
+predicates-tree,66646002,11013790,2024-12-19T18:53:32.667750Z,2018-07-30T23:25:09.954627Z,1.0.12,Render boolean-valued predicate functions results as a tree.,https://github.com/assert-rs/predicates-rs/tree/master/crates/tree
+cmake,66348578,11597001,2025-02-10T00:36:35.625126Z,2015-07-31T23:01:59.165496Z,0.1.54,"A build dependency for running `cmake` to build a native library
+",https://github.com/rust-lang/cmake-rs
+cargo-platform,65909054,11476031,2025-02-20T17:09:55.006249Z,2019-09-27T17:38:56.154489Z,0.2.0,Cargo's representation of a target platform.,https://github.com/rust-lang/cargo
+unsafe-libyaml,65709865,17715999,2024-03-17T05:44:18.590756Z,2022-07-03T16:43:10.793887Z,0.2.11,libyaml transpiled to rust by c2rust,https://github.com/dtolnay/unsafe-libyaml
+windows_i686_gnullvm,65422257,25071219,2025-01-07T15:42:46.222318Z,2024-04-02T12:16:37.468429Z,0.53.0,Import lib for Windows,https://github.com/microsoft/windows-rs
+anstyle-wincon,65414736,18524434,2025-01-13T16:17:45.355448Z,2023-03-08T21:17:38.191878Z,3.0.7,Styling legacy Windows terminals,https://github.com/rust-cli/anstyle.git
+float-cmp,65014138,9133034,2024-09-20T00:55:12.009814Z,2015-01-19T02:27:00.565634Z,0.10.0,Floating point approximate comparison traits,https://github.com/mikedilger/float-cmp
+doc-comment,64894824,10880363,2020-07-01T19:18:24.882328Z,2018-03-29T08:35:21.939899Z,0.3.3,Macro to generate doc comments,https://github.com/GuillaumeGomez/doc-comment
+match_cfg,64870270,7271327,2019-04-02T10:50:59.802728Z,2019-04-02T10:50:59.802728Z,0.1.0,"A convenience macro to ergonomically define an item depending on a large number
+of `#[cfg]` parameters. Structured like match statement, the first matching
+branch is the item that gets emitted.
+",https://github.com/gnzlbg/match_cfg
+void,64694738,6914974,2016-04-18T07:21:21.674123Z,2015-02-10T08:54:09.482359Z,1.0.2,The uninhabited void type for use in statically impossible cases.,https://github.com/reem/rust-void.git
+alloc-no-stdlib,64595711,12551898,2022-09-12T05:29:48.261627Z,2016-05-24T07:56:32.764714Z,2.0.4,"A dynamic allocator that may be used with or without the stdlib. This allows a package with nostd to allocate memory dynamically and be used either with a custom allocator, items on the stack, or by a package that wishes to simply use Box<>. It also provides options to use calloc or a mutable global variable for pre-zeroed memory",https://github.com/dropbox/rust-alloc-no-stdlib
+aead,64550456,8540990,2024-07-26T19:54:28.901747Z,2016-10-06T21:19:33.744879Z,0.6.0-rc.0,"Traits for Authenticated Encryption with Associated Data (AEAD) algorithms,
+such as AES-GCM as ChaCha20Poly1305, which provide a high-level API
+",https://github.com/RustCrypto/traits
+alloc-stdlib,64356931,12532708,2022-09-12T05:30:14.880111Z,2018-10-28T17:33:28.248102Z,0.2.2,A dynamic allocator example that may be used with the stdlib,https://github.com/dropbox/rust-alloc-no-stdlib
+futures-timer,64237365,11245455,2024-02-22T14:10:54.981743Z,2017-09-27T17:15:24.946049Z,3.0.3,"Timeouts for futures.
+",https://github.com/async-rs/futures-timer
+zip,64217327,13876858,2025-04-04T21:03:36.067591Z,2014-11-21T08:59:07.181279Z,2.6.1,"Library to support the reading and writing of zip files.
+",https://github.com/zip-rs/zip2.git
+flume,62820976,13936475,2024-10-19T13:54:21.390653Z,2019-07-31T00:18:26.586068Z,0.11.1,A blazingly fast multi-producer channel,https://github.com/zesterer/flume
+lexical-core,62145515,8267697,2024-12-08T21:01:01.113747Z,2018-12-15T19:37:50.282051Z,1.0.5,"Lexical, to- and from-string conversion routines.",https://github.com/Alexhuszagh/rust-lexical
+blocking,61684168,12036929,2024-05-26T01:47:26.714172Z,2019-06-15T23:09:34.273937Z,1.6.1,A thread pool for isolating blocking I/O in async programs,https://github.com/smol-rs/blocking
+android-tzdata,61679523,16410431,2023-03-05T09:25:18.541477Z,2023-03-04T18:26:25.068003Z,0.1.1,Parser for the Android-specific tzdata file,https://github.com/RumovZ/android-tzdata
+xml-rs,61668966,8356920,2025-01-07T20:17:00.790247Z,2014-12-08T20:29:58.424754Z,0.8.25,An XML library in pure Rust,https://github.com/kornelski/xml-rs
+serde_repr,61627482,10476443,2025-03-04T00:16:18.920627Z,2019-01-13T01:32:16.572279Z,0.1.20,Derive Serialize and Deserialize that delegates to the underlying repr of a C-like enum.,https://github.com/dtolnay/serde-repr
+termtree,61448265,10902830,2024-07-25T14:42:40.978498Z,2021-10-07T18:21:36.306218Z,0.5.1,Visualize tree-like data on the command-line,https://github.com/rust-cli/termtree
+ctr,61098433,8368409,2024-08-14T16:41:38.330263Z,2018-07-30T10:37:27.652417Z,0.10.0-pre.2,CTR block modes of operation,https://github.com/RustCrypto/block-modes
+maplit,60912578,8997835,2019-08-24T17:23:26.045525Z,2015-05-16T22:16:50.961537Z,1.0.2,"Collection “literal” macros for HashMap, HashSet, BTreeMap, and BTreeSet.",https://github.com/bluss/maplit
+ciborium-io,60851901,15602862,2024-01-24T03:02:36.662214Z,2021-11-21T19:32:55.708129Z,0.2.2,Simplified Read/Write traits for no_std usage,https://github.com/enarx/ciborium
+ciborium,60821400,15598108,2024-01-24T03:04:25.973012Z,2020-12-03T22:33:28.171774Z,0.2.2,serde implementation of CBOR using ciborium-basic,https://github.com/enarx/ciborium
+rsa,60821324,19343642,2025-03-12T17:11:19.673474Z,2018-07-24T08:31:14.033066Z,0.10.0-pre.4,Pure Rust RSA implementation,https://github.com/RustCrypto/RSA
+ciborium-ll,60818958,15596041,2024-01-24T03:03:42.992548Z,2021-11-21T19:33:03.017685Z,0.2.2,Low-level CBOR codec primitives,https://github.com/enarx/ciborium
+serde_path_to_error,60805957,15703297,2025-03-03T04:51:06.825049Z,2019-01-07T00:04:58.762298Z,0.1.17,Path to the element that failed to deserialize,https://github.com/dtolnay/path-to-error
+pyo3-ffi,60598677,16309608,2025-03-31T21:06:05.179927Z,2022-02-27T23:20:55.736914Z,0.24.1,Python-API bindings for the PyO3 ecosystem,https://github.com/pyo3/pyo3
+dtoa,60223398,5376733,2025-03-03T23:20:59.932998Z,2016-06-27T09:44:32.587067Z,1.0.10,Fast floating point primitive to string conversion,https://github.com/dtolnay/dtoa
+universal-hash,60215372,8423023,2024-07-26T19:10:14.703321Z,2019-08-30T00:52:43.192602Z,0.6.0-rc.0,Traits which describe the functionality of universal hash functions (UHFs),https://github.com/RustCrypto/traits
+tracing-opentelemetry,59996614,13623446,2025-03-23T17:06:30.448755Z,2019-11-20T19:44:36.014947Z,0.30.0,OpenTelemetry integration for tracing,https://github.com/tokio-rs/tracing-opentelemetry
+ff,59964673,12478975,2025-03-09T22:16:54.081723Z,2017-06-26T05:13:25.406384Z,0.13.1,Library for building and interfacing with finite fields,https://github.com/zkcrypto/ff
+sha3,59952570,9016047,2025-03-05T21:18:49.529277Z,2016-10-06T19:27:19.095615Z,0.11.0-pre.5,"Pure Rust implementation of SHA-3, a family of Keccak-based hash functions
+including the SHAKE family of eXtendable-Output Functions (XOFs), as well as
+the accelerated variant TurboSHAKE
+",https://github.com/RustCrypto/hashes
+redox_users,59949508,8197122,2025-01-02T18:06:03.914019Z,2018-03-28T18:15:46.838444Z,0.5.0,A Rust library to access Redox users and groups functionality,https://gitlab.redox-os.org/redox-os/users
+event-listener-strategy,59784134,19792301,2025-03-27T17:31:33.741698Z,2023-09-11T15:35:13.879946Z,0.5.4,Block or poll on event_listener easily,https://github.com/smol-rs/event-listener-strategy
+bzip2-sys,59737782,13171466,2025-02-28T13:56:25.581313Z,2014-11-13T06:35:17.703582Z,0.1.13+1.0.8,"Bindings to libbzip2 for bzip2 compression and decompression exposed as
+Reader/Writer streams.
+",https://github.com/alexcrichton/bzip2-rs
+group,59353228,12228467,2022-12-06T02:02:57.906653Z,2018-07-02T14:00:15.955345Z,0.13.0,Elliptic curve group traits and utilities,https://github.com/zkcrypto/group
+wait-timeout,59037655,14323102,2025-02-03T12:22:33.904538Z,2015-09-08T00:53:20.231605Z,0.2.1,"A crate to wait on a child process with a timeout specified across Unix and
+Windows platforms.
+",https://github.com/alexcrichton/wait-timeout
+fxhash,58550461,7293988,2017-07-29T19:02:18.664479Z,2017-06-26T18:31:21.553871Z,0.2.1,"A fast, non-secure, hashing algorithm derived from an internal hasher used in FireFox and Rustc.",https://github.com/cbreeden/fxhash
+async-compression,57859287,11767681,2025-03-25T14:15:52.331970Z,2019-05-14T17:10:23.835669Z,0.4.22,"Adaptors between compression crates and Rust's modern asynchronous IO types.
+",https://github.com/Nullus157/async-compression
+phf_macros,57687879,14431149,2025-01-06T20:31:38.326712Z,2015-01-25T04:01:23.567340Z,0.11.3,Macros to generate types in the phf crate,https://github.com/rust-phf/rust-phf
+elliptic-curve,57646573,11953217,2024-09-20T18:52:03.560922Z,2019-12-05T17:07:27.394753Z,0.14.0-rc.1,"General purpose Elliptic Curve Cryptography (ECC) support, including types
+and traits for representing various elliptic curve forms, scalars, points,
+and public/secret keys composed thereof.
+",https://github.com/RustCrypto/traits
+structopt,57561388,4901038,2022-01-18T12:08:44.235039Z,2017-02-03T00:18:05.356834Z,0.3.26,Parse command line argument by defining a struct.,https://github.com/TeXitoi/structopt
+libsqlite3-sys,57348880,10672553,2025-03-05T17:34:52.957060Z,2015-02-24T02:54:21.216860Z,0.32.0,Native bindings to the libsqlite3 library,https://github.com/rusqlite/rusqlite
+structopt-derive,57134095,4887679,2021-10-18T07:06:20.504665Z,2017-02-03T00:17:35.613888Z,0.4.18,"Parse command line argument by defining a struct, derive crate.",https://github.com/TeXitoi/structopt
+pkcs1,57102182,18923083,2024-09-06T15:03:57.450860Z,2020-06-12T14:01:05.920956Z,0.8.0-rc.1,"Pure Rust implementation of Public-Key Cryptography Standards (PKCS) #1:
+RSA Cryptography Specifications Version 2.2 (RFC 8017)
+",https://github.com/RustCrypto/formats
+ecdsa,56986170,11855439,2024-09-20T19:17:46.480332Z,2018-10-30T23:40:45.698779Z,0.17.0-pre.9,"Pure Rust implementation of the Elliptic Curve Digital Signature Algorithm
+(ECDSA) as specified in FIPS 186-4 (Digital Signature Standard), providing
+RFC6979 deterministic signatures as well as support for added entropy
+",https://github.com/RustCrypto/signatures
+encode_unicode,56939500,10086530,2022-08-07T14:19:49.238999Z,2016-04-07T00:11:28.007160Z,1.0.0,"UTF-8 and UTF-16 character types, iterators and related methods for char, u8 and u16.
+",https://github.com/tormol/encode_unicode
+headers,56592227,10018207,2023-11-24T19:15:22.169731Z,2016-08-09T22:30:40.796094Z,0.4.0,typed HTTP headers,https://github.com/hyperium/headers
+pathdiff,56272701,12645746,2024-11-25T18:15:15.304010Z,2017-09-20T00:06:24.615980Z,0.2.3,Library for diffing paths to obtain relative paths,https://github.com/Manishearth/pathdiff
+term,56192648,5852803,2024-12-14T17:33:27.842816Z,2014-12-28T18:17:56.750054Z,1.0.1,"A terminal formatting library
+",https://github.com/Stebalien/term
+async-executor,56013094,9257876,2024-09-07T17:39:50.918512Z,2019-07-01T08:25:50.986690Z,1.13.1,Async executor,https://github.com/smol-rs/async-executor
+mockall,55630221,10480994,2024-11-17T22:35:09.861614Z,2019-07-03T04:42:57.658170Z,0.13.1,"A powerful mock object library for Rust.
+",https://github.com/asomers/mockall
+base16ct,55595556,12798367,2023-02-26T17:06:02.943914Z,2022-01-11T22:12:56.812454Z,0.2.0,"Pure Rust implementation of Base16 a.k.a hexadecimal (RFC 4648) which avoids
+any usages of data-dependent branches/LUTs and thereby provides portable
+""best effort"" constant-time operation and embedded-friendly no_std support
+",https://github.com/RustCrypto/formats/tree/master/base16ct
+png,55505268,11596308,2025-03-03T06:13:33.219893Z,2015-05-26T08:26:52.565506Z,0.18.0-rc,PNG decoding and encoding library in pure Rust,https://github.com/image-rs/image-png
+mockall_derive,55496261,10463245,2024-11-17T22:34:57.747894Z,2019-07-03T04:38:31.751085Z,0.13.1,"Procedural macros for Mockall
+",https://github.com/asomers/mockall
+threadpool,55462020,6974994,2020-05-11T15:44:07.541079Z,2015-02-24T22:22:54.530788Z,1.8.1,"A thread pool for running a number of jobs on a fixed set of worker threads.
+",https://github.com/rust-threadpool/rust-threadpool
+anes,55317513,14344244,2023-11-27T12:11:51.194575Z,2019-10-25T14:54:21.963121Z,0.2.0,ANSI Escape Sequences provider & parser,https://github.com/qwandor/anes-rs
+headers-core,55264545,9925223,2023-11-24T19:13:05.687876Z,2018-08-30T22:31:26.562535Z,0.3.0,typed HTTP headers core trait,https://github.com/hyperium/headers
+polyval,55127425,7479598,2024-07-26T21:05:43.315869Z,2019-08-13T22:32:41.629643Z,0.7.0-rc.0,"POLYVAL is a GHASH-like universal hash over GF(2^128) useful for constructing
+a Message Authentication Code (MAC)
+",https://github.com/RustCrypto/universal-hashes
+ignore,55048529,9073867,2024-09-09T02:06:06.387704Z,2016-10-30T02:14:00.069900Z,0.4.23,"A fast library for efficiently matching ignore files such as `.gitignore`
+against file paths.
+",https://github.com/BurntSushi/ripgrep/tree/master/crates/ignore
+enum-as-inner,54894039,7901528,2024-09-09T16:32:17.899384Z,2018-12-08T08:25:33.595709Z,0.6.1,"A proc-macro for deriving inner field accessor functions on enums.
+",https://github.com/bluejekyll/enum-as-inner
+fancy-regex,54413751,13832823,2024-10-24T08:52:30.141793Z,2017-02-05T15:58:07.799444Z,0.14.0,"An implementation of regexes, supporting a relatively rich set of features, including backreferences and look-around.",https://github.com/fancy-regex/fancy-regex
+ed25519,54292084,10938898,2024-07-28T16:17:45.089962Z,2016-10-06T21:33:33.887375Z,2.3.0-pre.0,"Edwards Digital Signature Algorithm (EdDSA) over Curve25519 (as specified in RFC 8032)
+support library providing signature type definitions and PKCS#8 private key
+decoding/encoding support
+",https://github.com/RustCrypto/signatures
+crc-catalog,54058734,12212123,2023-11-04T18:43:50.473545Z,2019-12-14T08:16:01.779921Z,2.4.0,Catalog of CRC algorithms (generated from http://reveng.sourceforge.net/crc-catalogue) expressed as simple Rust structs.,https://github.com/akhilles/crc-catalog.git
+sec1,54028930,11863891,2025-02-23T07:07:46.360515Z,2020-08-26T16:48:41.171083Z,0.8.0-rc.4,"Pure Rust implementation of SEC1: Elliptic Curve Cryptography encoding formats
+including ASN.1 DER-serialized private keys as well as the
+Elliptic-Curve-Point-to-Octet-String encoding
+",https://github.com/RustCrypto/formats
+image,53821435,11984366,2025-03-25T04:25:02.221510Z,2014-11-20T20:03:29.764042Z,0.25.6,Imaging library. Provides basic image processing and encoders/decoders for common image formats.,https://github.com/image-rs/image
+fs_extra,53638835,10380763,2023-02-03T17:59:27.093041Z,2017-02-08T09:23:29.605076Z,1.3.0,Expanding std::fs and std::io. Recursively copy folders with information about process and much more.,https://github.com/webdesus/fs_extra
+new_debug_unreachable,53422816,9837428,2024-03-15T17:26:05.782555Z,2018-06-01T22:17:30.262654Z,1.0.6,"panic in debug, intrinsics::unreachable() in release (fork of debug_unreachable)",https://github.com/mbrubeck/rust-debug-unreachable
+erased-serde,53384052,11265372,2025-03-03T23:29:16.752903Z,2016-08-21T19:27:33.182632Z,0.4.6,Type-erased Serialize and Serializer traits,https://github.com/dtolnay/erased-serde
+Inflector,53328204,6618934,2019-01-20T20:55:29.171696Z,2015-10-10T15:26:24.472017Z,0.11.4,"Adds String based inflections for Rust. Snake, kebab, camel, sentence, class, title and table cases as well as ordinalize, deordinalize, demodulize, foreign key, and pluralize/singularize are supported as both traits and pure functions acting on String types.
+",https://github.com/whatisinternet/inflector
+stringprep,53246511,10197593,2024-05-25T13:22:49.993689Z,2017-05-21T03:53:10.107537Z,0.1.5,An implementation of the stringprep algorithm,https://github.com/sfackler/rust-stringprep
+indicatif,52939092,9759762,2025-01-28T15:54:20.473459Z,2017-04-26T12:41:07.759613Z,0.17.11,A progress bar and cli reporting library for Rust,https://github.com/console-rs/indicatif
+difflib,52624876,8630287,2018-07-22T12:47:54.378558Z,2016-03-01T20:11:02.811921Z,0.4.0,Port of Python's difflib library to Rust.,https://github.com/DimaKudosh/difflib
+number_prefix,52444347,9479989,2020-04-07T01:48:04.585296Z,2014-12-15T09:54:40.253590Z,0.4.0,"Library for numeric prefixes (kilo, giga, kibi).",https://github.com/ogham/rust-number-prefix
+md5,52203447,7421338,2019-11-01T19:48:57.309232Z,2015-06-21T10:26:13.324147Z,0.7.0,The package provides the MD5 hash function.,https://github.com/stainless-steel/md5
+opentelemetry_sdk,52073162,15757117,2025-03-22T00:13:49.244330Z,2019-06-27T23:25:54.841142Z,0.29.0,The SDK for the OpenTelemetry metrics collection and distributed tracing framework,https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-sdk
+num-bigint-dig,51844180,13727735,2023-07-10T08:03:30.470100Z,2018-11-24T11:05:02.696017Z,0.8.4,Big integer implementation for Rust,https://github.com/dignifiedquire/num-bigint
+rfc6979,51671339,11764155,2024-07-27T01:06:47.043571Z,2021-02-09T13:22:36.030060Z,0.5.0-pre.4,"Pure Rust implementation of RFC6979: Deterministic Usage of the
+Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)
+",https://github.com/RustCrypto/signatures
+keccak,51637553,8164273,2024-01-16T19:13:50.279129Z,2018-03-19T15:38:15.485407Z,0.2.0-pre.0,"Pure Rust implementation of the Keccak sponge function including the keccak-f
+and keccak-p variants
+",https://github.com/RustCrypto/sponges/tree/master/keccak
+crossbeam,51510198,5652677,2024-01-08T12:58:18.537533Z,2015-08-27T18:36:48.638047Z,0.8.4,Tools for concurrent programming,https://github.com/crossbeam-rs/crossbeam
+protobuf,51431130,6930768,2025-03-10T14:07:03.378871Z,2014-11-21T00:30:41.855088Z,4.31.0-beta1,"Rust implementation of Google protocol buffers
+",https://github.com/stepancheg/rust-protobuf/
+fragile,50873661,8674324,2025-03-25T12:01:07.715153Z,2018-06-20T23:57:55.033266Z,2.0.1,Provides wrapper types for sending non-send values to other threads.,https://github.com/mitsuhiko/fragile
+serial_test,50615420,11603796,2024-11-08T19:28:07.728609Z,2018-12-30T23:25:35.760393Z,3.2.0,Allows for the creation of serialised Rust tests,https://github.com/palfrey/serial_test/
+http-range-header,50246639,6937794,2024-11-28T12:38:42.267978Z,2021-11-25T09:12:33.415128Z,0.4.2,No-dep range header parser,https://github.com/MarcusGrass/parse-range-headers
+const-random,50201831,13095453,2024-03-03T23:32:56.450219Z,2019-03-03T00:37:42.180069Z,0.1.18,Provides compile time random number generation.,https://github.com/tkaitchuck/constrandom
+serial_test_derive,50034765,11508799,2024-11-08T19:27:36.248996Z,2018-12-30T23:26:03.428449Z,3.2.0,Helper crate for serial_test,https://github.com/palfrey/serial_test/
+whoami,50032666,10709134,2025-03-23T23:24:02.375649Z,2017-08-04T05:29:47.173641Z,2.0.0-pre.2,Retrieve the current user and environment.,https://github.com/ardaku/whoami
+serde_derive_internals,50026170,11009056,2024-05-15T07:36:03.615748Z,2017-04-20T15:12:02.135733Z,0.29.1,AST representation used by Serde derive macros. Unstable.,https://github.com/serde-rs/serde
+const-random-macro,49888181,13028942,2023-10-23T19:07:26.855710Z,2019-03-03T00:35:20.621290Z,0.1.16,Provides the procedural macro used by const-random,https://github.com/tkaitchuck/constrandom
+ghash,49844385,6422349,2024-07-26T21:06:04.751991Z,2016-10-06T21:35:47.726226Z,0.6.0-rc.0,"Universal hash over GF(2^128) useful for constructing a Message Authentication Code (MAC),
+as in the AES-GCM authenticated encryption cipher.
+",https://github.com/RustCrypto/universal-hashes
+aes-gcm,49750349,6294079,2024-10-07T19:25:32.759618Z,2019-08-16T22:34:48.520552Z,0.11.0-pre.2,"Pure Rust implementation of the AES-GCM (Galois/Counter Mode)
+Authenticated Encryption with Associated Data (AEAD) Cipher
+with optional architecture-specific hardware acceleration
+",https://github.com/RustCrypto/AEADs
+lru-cache,49513500,6440922,2019-03-21T01:04:02.527231Z,2015-03-18T18:49:05.615330Z,0.1.2,A cache that holds a limited number of key-value pairs,https://github.com/contain-rs/lru-cache
+downcast,49187221,8484915,2021-11-09T09:57:28.963027Z,2015-10-24T11:18:26.683306Z,0.11.0,Trait for downcasting trait objects back to their original types.,https://github.com/fkoep/downcast-rs
+async-recursion,48875931,10161331,2024-04-25T16:06:43.164603Z,2019-10-04T00:56:26.118378Z,1.1.1,Recursion for async functions,https://github.com/dcchut/async-recursion
+blake2,48863370,7920801,2025-03-05T21:16:13.296906Z,2016-10-06T21:27:29.446062Z,0.11.0-pre.5,BLAKE2 hash functions,https://github.com/RustCrypto/hashes
+simple_asn1,48840923,12044025,2025-01-12T22:01:48.935117Z,2017-12-27T02:17:02.072468Z,0.6.3,A simple DER/ASN.1 encoding/decoding library.,https://github.com/acw/simple_asn1
+codespan-reporting,48738770,7909936,2025-03-22T16:54:28.749166Z,2018-04-16T03:43:01.202472Z,0.12.0,Beautiful diagnostic reporting for text-based programming languages,https://github.com/brendanzab/codespan
+adler2,48606238,27970285,2024-08-04T20:25:28.045801Z,2024-08-04T20:25:28.045801Z,2.0.0,A simple clean-room implementation of the Adler-32 checksum,https://github.com/oyvindln/adler2
+blake3,48477897,8744905,2025-04-03T06:19:17.684975Z,2019-09-17T19:59:37.308360Z,1.8.1,the BLAKE3 hash function,https://github.com/BLAKE3-team/BLAKE3
+jsonwebtoken,48421178,12281579,2025-02-06T20:04:48.907046Z,2015-11-02T23:29:26.499058Z,9.3.1,Create and decode JWTs in a strongly typed way.,https://github.com/Keats/jsonwebtoken
+string_cache,48283007,7218535,2025-03-28T03:15:08.070013Z,2015-04-29T21:22:05.812623Z,0.8.9,"A string interning library for Rust, developed as part of the Servo project.",https://github.com/servo/string-cache
+approx,48165949,8256799,2022-01-23T10:15:35.118590Z,2015-11-15T13:11:40.322680Z,0.5.1,Approximate floating point equality comparisons and assertions.,https://github.com/brendanzab/approx
+downcast-rs,48007665,8813440,2025-01-07T04:20:42.769689Z,2015-12-16T03:50:40.714078Z,2.0.1,"Trait object downcasting support using only safe Rust. It supports type
+parameters, associated types, and type constraints.
+",https://github.com/marcianx/downcast-rs
+net2,47272118,1748204,2023-06-14T18:02:31.313490Z,2015-06-19T01:25:57.653522Z,0.2.39,"Extensions to the standard library's networking types as proposed in RFC 1158.
+",https://github.com/deprecrated/net2-rs
+raw-cpuid,47266696,10336934,2025-03-04T19:48:51.996701Z,2015-03-24T19:38:22.010720Z,11.5.0,"A library to parse the x86 CPUID instruction, written in rust with no external dependencies. The implementation closely resembles the Intel CPUID manual description. The library does only depend on libcore.",https://github.com/gz/rust-cpuid
+tinystr,47174673,27940599,2025-02-26T18:22:16.205167Z,2019-08-10T03:37:58.905996Z,0.8.1,A small ASCII-only bounded length string representation.,https://github.com/unicode-org/icu4x
+precomputed-hash,47001542,6916101,2017-09-29T20:25:54.097804Z,2017-03-21T18:06:00.731309Z,0.1.1,A library intending to be a base dependency to expose a precomputed hash,https://github.com/emilio/precomputed-hash
+iovec,46959649,1811088,2019-10-09T18:09:56.560010Z,2017-03-15T06:25:56.348864Z,0.1.4,"Portable buffer type for scatter/gather I/O operations
+",https://github.com/carllerche/iovec
+sha1_smol,46951739,10076494,2024-07-21T20:34:38.814832Z,2022-01-16T08:38:28.018739Z,1.0.1,Minimal dependency-free implementation of SHA1 for Rust.,https://github.com/mitsuhiko/sha1-smol
+ed25519-dalek,46915086,9914125,2024-02-07T01:14:29.540135Z,2016-12-09T01:24:53.342073Z,2.1.1,"Fast and efficient ed25519 EdDSA key generations, signing, and verification in pure Rust.",https://github.com/dalek-cryptography/curve25519-dalek/tree/main/ed25519-dalek
+value-bag,46810290,7747580,2025-03-26T05:08:41.098428Z,2020-08-18T03:58:58.918633Z,1.11.1,Anonymous structured values,https://github.com/sval-rs/value-bag
+bzip2,46778196,9491034,2025-02-28T13:56:50.032083Z,2014-11-13T06:35:38.538844Z,0.5.2,"Bindings to libbzip2 for bzip2 compression and decompression exposed as
+Reader/Writer streams.
+",https://github.com/trifectatechfoundation/bzip2-rs
+simd-adler32,46744506,14976434,2023-07-24T18:54:48.756556Z,2021-04-09T02:14:04.400491Z,0.3.7,A SIMD-accelerated Adler-32 hash algorithm implementation.,https://github.com/mcountryman/simd-adler32
+similar,46400722,12266789,2025-01-19T14:39:11.514512Z,2021-01-24T01:33:24.060980Z,2.7.0,A diff library for Rust,https://github.com/mitsuhiko/similar
+git2,46397763,6314962,2025-03-17T22:43:50.208464Z,2014-11-14T23:37:32.510389Z,0.20.1,"Bindings to libgit2 for interoperating with git repositories. This library is
+both threadsafe and memory safe and allows both reading and writing git
+repositories.
+",https://github.com/rust-lang/git2-rs
+cbindgen,46171771,8376126,2025-01-15T13:24:43.505472Z,2017-04-12T15:57:46.007350Z,0.28.0,A tool for generating C bindings to Rust code.,https://github.com/mozilla/cbindgen
+quanta,46149833,9740583,2025-01-01T23:06:24.932309Z,2019-01-14T12:28:55.369353Z,0.12.5,high-speed timing library,https://github.com/metrics-rs/quanta
+libgit2-sys,46144696,6282207,2025-03-17T22:43:43.518059Z,2014-11-13T06:35:27.096084Z,0.18.1+1.9.0,Native bindings to the libgit2 library,https://github.com/rust-lang/git2-rs
+adler32,46050411,5694069,2020-07-30T19:05:16.808788Z,2015-08-24T21:44:20.189544Z,1.2.0,Minimal Adler32 implementation for Rust.,https://github.com/remram44/adler32-rs
+normalize-line-endings,46026662,5909402,2018-12-16T15:17:15.641063Z,2016-05-14T19:00:20.135508Z,0.3.0,"Takes an iterator over chars and returns a new iterator with all line endings (\r, \n, or \r\n) as \n",https://github.com/derekdreery/normalize-line-endings
+derive_builder,45922247,9826124,2024-10-08T16:55:17.031148Z,2016-08-07T20:28:43.953501Z,0.20.2,Rust macro to automatically implement the builder pattern for arbitrary structs.,https://github.com/colin-kiegel/rust-derive-builder
+derive_builder_core,45914783,9823254,2024-10-08T16:54:04.753323Z,2017-03-25T20:27:23.686275Z,0.20.2,Internal helper library for the derive_builder crate.,https://github.com/colin-kiegel/rust-derive-builder
+ctrlc,45888269,7972866,2025-04-04T11:59:44.731671Z,2015-07-16T08:49:02.855449Z,3.4.6,Easy Ctrl-C handler for Rust projects,https://github.com/Detegr/rust-ctrlc.git
+ureq,45742169,11503368,2025-03-17T18:10:04.485233Z,2018-06-22T08:25:15.267842Z,3.0.10,"Simple, safe HTTP client",https://github.com/algesten/ureq
+sysinfo,45649426,9290559,2025-04-01T21:54:10.796216Z,2015-07-25T20:38:16.491593Z,0.34.2,"Library to get system information such as processes, CPUs, disks, components and networks",https://github.com/GuillaumeGomez/sysinfo
+chrono-tz,45648471,9011919,2025-03-24T09:44:13.409151Z,2016-10-08T19:42:47.877742Z,0.10.3,TimeZone implementations for chrono from the IANA database,https://github.com/chronotope/chrono-tz
+debugid,45266789,10116165,2022-04-26T11:03:07.242788Z,2018-03-28T22:17:03.942655Z,0.8.0,Common reusable types for implementing the sentry.io protocol.,https://github.com/getsentry/rust-debugid
+owo-colors,45256444,10105704,2025-02-23T02:37:03.251910Z,2020-08-25T06:21:49.001141Z,4.2.0,Zero-allocation terminal colors that'll make people go owo,https://github.com/owo-colors/owo-colors
+inotify,44857854,7222856,2024-08-19T11:38:14.906501Z,2014-12-22T12:54:21.610996Z,0.11.0,Idiomatic wrapper for inotify,https://github.com/hannobraun/inotify
+resolv-conf,44165639,6290064,2025-03-13T09:55:16.824019Z,2016-01-21T11:52:22.053281Z,0.7.1,The resolv.conf file parser,https://github.com/hickory-dns/resolv-conf
+dunce,44133475,11848340,2024-08-04T01:36:46.487482Z,2017-11-22T13:49:37.027184Z,1.0.5,"Normalize Windows paths to the most compatible format, avoiding UNC where possible",https://gitlab.com/kornelski/dunce
+proptest,44115267,12136747,2024-12-16T01:48:18.208426Z,2017-06-18T17:47:46.015744Z,1.6.0,"Hypothesis-like property-based testing and shrinking.
+",https://github.com/proptest-rs/proptest
+atoi,43791806,9922790,2022-10-11T17:21:42.722566Z,2017-06-29T00:34:36.835675Z,2.0.0,Parse integers directly from `[u8]` slices in safe code,https://github.com/pacman82/atoi-rs
+trust-dns-proto,43697423,3781954,2023-10-23T16:03:22.585328Z,2017-10-03T07:53:48.435005Z,0.23.2,"Trust-DNS is a safe and secure DNS library. This is the foundational DNS protocol library for all Trust-DNS projects.
+",https://github.com/bluejekyll/trust-dns
+jni,43629815,11632460,2023-03-15T14:59:48.461767Z,2016-11-08T00:40:20.801845Z,0.21.1,Rust bindings to the JNI,https://github.com/jni-rs/jni-rs
+zerofrom,43299270,28404357,2025-02-26T18:22:02.789601Z,2022-04-06T00:39:45.094863Z,0.1.6,ZeroFrom trait for constructing,https://github.com/unicode-org/icu4x
+litemap,43180246,28338061,2025-02-26T18:20:43.655598Z,2021-02-23T01:00:09.087357Z,0.7.5,"A key-value Map implementation based on a flat, sorted Vec.",https://github.com/unicode-org/icu4x
+borsh,42992810,10170712,2025-03-25T10:55:50.325890Z,2019-08-16T23:25:11.928095Z,1.5.7,"Binary Object Representation Serializer for Hashing
+",https://github.com/near/borsh-rs
+zerofrom-derive,42938149,28421135,2025-02-26T18:21:58.794145Z,2022-04-06T00:39:34.629658Z,0.1.6,Custom derive for the zerofrom crate,https://github.com/unicode-org/icu4x
+rmp,42774603,10013162,2024-04-17T14:31:54.130496Z,2015-05-15T08:01:56.331764Z,0.8.14,Pure Rust MessagePack serialization implementation,https://github.com/3Hren/msgpack-rust
+bytecount,42708746,7610311,2024-04-19T09:46:09.349970Z,2016-09-27T06:50:45.919353Z,0.6.8,"count occurrences of a given byte, or the number of UTF-8 code points, in a byte slice, fast",https://github.com/llogiq/bytecount
+yoke,42562620,27520541,2025-02-26T18:18:43.854151Z,2021-05-01T00:44:23.745711Z,0.8.0,Abstraction allowing borrowed data to be carried along with the backing data it borrows from,https://github.com/unicode-org/icu4x
+system-configuration,42551633,15017878,2024-08-22T13:00:37.745969Z,2018-02-01T12:06:51.842395Z,0.6.1,Bindings to SystemConfiguration framework for macOS,https://github.com/mullvad/system-configuration-rs
+opentelemetry-semantic-conventions,42517099,10136421,2025-03-22T00:13:00.780397Z,2020-10-16T17:05:58.021210Z,0.29.0,Semantic conventions for OpenTelemetry,https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-semantic-conventions
+system-configuration-sys,42467673,15000757,2024-01-31T13:42:46.487586Z,2018-02-01T12:06:02.133901Z,0.6.0,Low level bindings to SystemConfiguration framework for macOS,https://github.com/mullvad/system-configuration-rs
+yoke-derive,42294275,27542066,2025-02-26T18:18:38.537677Z,2021-07-02T19:25:03.408101Z,0.8.0,Custom derive for the yoke crate,https://github.com/unicode-org/icu4x
+seahash,42278459,8446478,2021-01-16T05:41:31.670788Z,2016-11-07T22:49:51.868295Z,4.1.0,"A blazingly fast, portable hash function with proven statistical guarantees.",https://gitlab.redox-os.org/redox-os/seahash
+color_quant,42264767,8730804,2020-10-09T19:17:17.742242Z,2015-05-29T12:14:41.495169Z,1.1.0,Color quantization library to reduce n colors to 256 colors.,https://github.com/image-rs/color_quant.git
+inotify-sys,42195338,6810928,2021-01-16T09:40:08.828345Z,2017-05-08T15:39:23.442010Z,0.1.5,inotify bindings for the Rust programming language,https://github.com/hannobraun/inotify-sys
+schemars,42104047,9908642,2025-02-25T12:19:02.684808Z,2019-08-08T18:03:22.855604Z,1.0.0-alpha.17,Generate JSON Schemas from Rust code,https://github.com/GREsau/schemars
+crossterm,42051090,8664201,2025-04-05T15:21:48.500601Z,2018-01-18T22:18:11.132912Z,0.29.0,A crossplatform terminal library for manipulating terminals.,https://github.com/crossterm-rs/crossterm
+schemars_derive,42023689,9889508,2025-02-25T12:18:32.996466Z,2019-08-08T17:52:12.568797Z,1.0.0-alpha.17,"Macros for #[derive(JsonSchema)], for use with schemars",https://github.com/GREsau/schemars
+language-tags,42008043,5139836,2021-05-24T17:56:55.679036Z,2015-01-20T18:40:30.661021Z,0.3.2,Language tags for Rust,https://github.com/pyfisch/rust-language-tags
+serde_cbor,41919440,5909526,2021-08-15T14:08:47.328110Z,2015-09-29T06:32:15.579869Z,0.11.2,CBOR support for serde.,https://github.com/pyfisch/cbor
+ascii,41827108,5365951,2022-09-18T13:04:12.231348Z,2014-11-27T14:19:59.536222Z,1.1.0,"ASCII-only equivalents to `char`, `str` and `String`.",https://github.com/tomprogrammer/rust-ascii
+notify,41237891,6638937,2025-01-10T14:34:44.890868Z,2014-12-20T07:53:19.303362Z,8.0.0,Cross-platform filesystem notification library,https://github.com/notify-rs/notify.git
+writeable,41136589,26819234,2025-02-26T18:25:13.896478Z,2020-11-12T23:11:03.421547Z,0.6.1,A more efficient alternative to fmt::Display,https://github.com/unicode-org/icu4x
+icu_locid,41028007,26821142,2024-05-28T19:59:08.218938Z,2020-10-15T15:25:36.105795Z,1.5.0,API for managing Unicode Language and Locale Identifiers,https://github.com/unicode-org/icu4x
+miow,41021709,1141225,2023-08-05T19:46:05.681337Z,2015-10-28T16:48:07.632796Z,0.6.0,"A zero overhead I/O library for Windows, focusing on IOCP and async I/O
+abstractions.
+",https://github.com/yoshuawuyts/miow
+zerovec,40988830,26948834,2025-02-26T18:21:48.875385Z,2021-04-19T18:57:13.970932Z,0.11.1,Zero-copy vector backed by a byte array,https://github.com/unicode-org/icu4x
+config,40865383,8751598,2025-03-12T15:07:15.158921Z,2015-04-16T18:35:56.393987Z,0.15.11,Layered configuration system for Rust applications.,https://github.com/rust-cli/config-rs
+borsh-derive,40633934,8478676,2025-03-25T10:55:42.383142Z,2019-08-16T23:24:14.124261Z,1.5.7,"Binary Object Representation Serializer for Hashing
+",https://github.com/near/borsh-rs
+icu_provider,40587249,26818189,2025-02-26T18:36:20.847603Z,2020-10-15T15:31:04.542638Z,2.0.0-beta2,Trait and struct definitions for the ICU data provider,https://github.com/unicode-org/icu4x
+rust-ini,40586858,8301126,2024-08-03T15:58:06.257725Z,2015-01-26T04:01:52.645729Z,0.21.1,An Ini configuration file parsing library in Rust,https://github.com/zonyitoo/rust-ini
+wasmparser,40585990,6263394,2025-04-01T16:44:45.943946Z,2017-06-02T16:58:49.610864Z,0.228.0,"A simple event-driven library for parsing WebAssembly binary files.
+",https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasmparser
+zerovec-derive,40565905,26905404,2025-02-26T18:21:41.649639Z,2021-12-11T07:34:11.602873Z,0.11.1,Custom derive for the zerovec crate,https://github.com/unicode-org/icu4x
+icu_provider_macros,40537372,26797304,2024-11-23T02:04:22.406783Z,2021-07-29T23:44:19.749960Z,2.0.0-beta1,Proc macros for ICU data providers,https://github.com/unicode-org/icu4x
+byte-tools,40509805,1448262,2019-01-28T14:52:53.093902Z,2016-10-06T18:00:39.776283Z,0.3.1,Bytes related utility functions,https://github.com/RustCrypto/utils
+unicode_categories,40474402,7969118,2016-10-22T17:57:09.493733Z,2015-10-31T07:05:14.684961Z,0.1.1,Query Unicode category membership for chars,https://github.com/swgillespie/unicode-categories
+rusty-fork,40461136,11078338,2020-05-27T01:57:15.210273Z,2018-02-28T00:36:23.803853Z,0.3.0,"Cross-platform library for running Rust tests in sub-processes using a
+fork-like interface.
+",https://github.com/altsysrq/rusty-fork
+kv-log-macro,40319938,6367702,2020-07-06T09:42:00.776479Z,2019-09-01T15:56:50.943347Z,1.0.7,Log macro for log's kv-unstable backend.,https://github.com/yoshuawuyts/kv-log-macro
+trust-dns-resolver,40254196,3476417,2023-10-23T16:03:53.732289Z,2017-06-28T06:13:43.920832Z,0.23.2,"Trust-DNS is a safe and secure DNS library. This Resolver library  uses the Client library to perform all DNS queries. The Resolver is intended to be a high-level library for any DNS record resolution see Resolver and AsyncResolver for supported resolution types. The Client can be used for other queries.
+",https://github.com/bluejekyll/trust-dns
+snafu-derive,40216803,10741640,2024-09-23T15:35:42.866378Z,2019-01-28T03:09:42.780108Z,0.8.5,An ergonomic error handling library,https://github.com/shepmaster/snafu
+chrono-tz-build,40190429,8845231,2025-03-24T09:43:55.356894Z,2020-10-09T16:37:20.955109Z,0.4.1,internal build script for chrono-tz,https://github.com/chronotope/chrono-tz
+snafu,40180940,10740830,2024-09-23T15:36:06.089702Z,2019-01-28T03:09:59.593302Z,0.8.5,An ergonomic error handling library,https://github.com/shepmaster/snafu
+parse-zoneinfo,40114509,7716149,2024-05-02T15:53:25.884665Z,2017-02-11T11:14:54.177109Z,0.3.1,Parse zoneinfo files from the IANA database,https://github.com/chronotope/chrono-tz
+indenter,40088582,7229797,2021-02-22T22:25:54.061995Z,2020-02-27T03:58:19.996247Z,0.3.3,"A formatter wrapper that indents the text, designed for error display impls
+",https://github.com/yaahc/indenter
+der-parser,39994302,10332517,2025-01-21T09:43:38.524624Z,2017-03-02T08:38:50.588643Z,10.0.0,Parser/encoder for ASN.1 BER/DER data,https://github.com/rusticata/der-parser.git
+async-global-executor,39880596,6855343,2025-02-26T14:26:42.950567Z,2020-08-27T14:56:53.281420Z,3.1.0,A global executor built on top of async-executor and async-io,https://github.com/Keruspe/async-global-executor
+utf8_iter,39876867,27195576,2023-12-01T17:26:51.542538Z,2022-04-19T08:36:06.371431Z,1.0.4,Iterator by char over potentially-invalid UTF-8 in &[u8],https://github.com/hsivonen/utf8_iter
+icu_locid_transform_data,39863744,27128693,2025-03-26T19:48:00.772138Z,2023-09-23T18:00:16.588584Z,1.5.1,Data for the icu_locid_transform crate,https://github.com/unicode-org/icu4x
+handlebars,39790296,6441405,2025-03-16T00:12:12.909234Z,2014-12-27T10:28:20.744395Z,6.3.2,Handlebars templating implemented in Rust.,https://github.com/sunng87/handlebars-rust
+rand_distr,39631126,8669509,2025-02-20T12:13:49.430265Z,2019-06-12T09:20:01.272484Z,0.5.1,"Sampling from random number distributions
+",https://github.com/rust-random/rand_distr
+icu_locid_transform,39580185,26773421,2024-05-28T19:59:38.834167Z,2022-08-05T00:59:01.263313Z,1.5.0,API for Unicode Language and Locale Identifiers canonicalization,https://github.com/unicode-org/icu4x
+async-std,39568261,6522605,2025-03-15T22:03:29.876947Z,2019-05-30T16:02:17.377461Z,1.13.1,Deprecated in favor of `smol` - Async version of the Rust standard library,https://github.com/async-rs/async-std
+getopts,39567167,5486500,2019-08-19T15:47:50.326738Z,2014-12-13T22:10:14.289738Z,0.2.21,"getopts-like option parsing.
+",https://github.com/rust-lang/getopts
+gif,39532260,8910158,2024-01-23T17:17:21.634829Z,2015-05-29T14:24:47.796231Z,0.13.1,GIF de- and encoder,https://github.com/image-rs/image-gif
+quinn-proto,39515113,14193113,2025-03-18T09:41:15.343315Z,2018-10-02T20:17:22.135216Z,0.11.10,State machine for the QUIC transport protocol,https://github.com/quinn-rs/quinn
+matrixmultiply,39368453,8460333,2024-07-27T14:32:50.303402Z,2016-03-28T21:26:28.910493Z,0.3.9,"General matrix multiplication for f32 and f64 matrices. Operates on matrices with general layout (they can use arbitrary row and column stride). Detects and uses AVX or SSE2 on x86 platforms transparently for higher performance. Uses a microkernel strategy, so that the implementation is easy to parallelize and optimize.
+
+Supports multithreading.",https://github.com/bluss/matrixmultiply/
+const_fn,39247929,4025874,2025-01-06T16:47:36.324502Z,2018-12-25T20:13:05.596834Z,0.4.11,"A lightweight attribute for easy generation of const functions with conditional compilations.
+",https://github.com/taiki-e/const_fn
+p256,39171797,9506567,2024-09-22T14:48:39.327948Z,2018-10-03T14:56:31.983054Z,0.14.0-pre.2,"Pure Rust implementation of the NIST P-256 (a.k.a. secp256r1, prime256v1)
+elliptic curve as defined in SP 800-186, with support for ECDH, ECDSA
+signing/verification, and general purpose curve arithmetic
+",https://github.com/RustCrypto/elliptic-curves
+utf16_iter,39123089,26768635,2023-12-01T17:42:42.216648Z,2022-06-13T09:49:27.814111Z,1.0.5,Iterator by char over potentially-invalid UTF-16 in &[u16],https://github.com/hsivonen/utf16_iter
+async-process,39122711,8761097,2024-09-14T21:57:08.737959Z,2019-05-23T06:38:29.864854Z,2.3.0,Async interface for working with processes,https://github.com/smol-rs/async-process
+rmp-serde,39090170,9560211,2024-04-30T13:47:27.647844Z,2015-08-24T12:49:26.519905Z,1.3.0,Serde bindings for RMP,https://github.com/3Hren/msgpack-rust
+error-chain,39066231,2027123,2020-08-02T17:50:33.565942Z,2016-04-29T01:27:04.929343Z,0.12.4,Yet another error boilerplate library.,https://github.com/rust-lang-nursery/error-chain
+write16,39057828,26760687,2022-07-18T13:23:21.837277Z,2022-07-18T13:23:21.837277Z,1.0.0,A UTF-16 analog of the Write trait,https://github.com/hsivonen/write16
+derive_builder_macro,39031989,9569344,2024-10-08T16:54:13.062233Z,2021-01-13T15:15:50.199835Z,0.20.2,Rust macro to automatically implement the builder pattern for arbitrary structs.,https://github.com/colin-kiegel/rust-derive-builder
+infer,39002695,7832502,2025-02-02T01:21:26.316514Z,2019-02-23T00:50:12.520054Z,0.19.0,Small crate to infer file type based on magic number signatures,https://github.com/bojand/infer
+prometheus,38937426,4794222,2025-03-27T08:38:33.984372Z,2016-01-22T10:28:34.313551Z,0.14.0,Prometheus instrumentation library for Rust applications.,https://github.com/tikv/rust-prometheus
+secrecy,38815683,10249118,2024-10-09T19:23:36.825181Z,2018-10-04T03:59:35.046194Z,0.10.3,"Wrapper types and traits for secret management which help ensure
+they aren't accidentally copied, logged, or otherwise exposed
+(as much as possible), and also ensure secrets are securely wiped
+from memory when dropped.
+",https://github.com/iqlusioninc/crates/tree/main/secrecy
+icu_properties,38814689,26758717,2025-02-26T18:39:20.128197Z,2021-11-02T00:17:19.235475Z,2.0.0-beta2,Definitions for Unicode properties,https://github.com/unicode-org/icu4x
+openssl-src,38805741,8077028,2025-04-08T22:01:19.136079Z,2017-08-29T04:49:53.890414Z,300.5.0+3.5.0,"Source of OpenSSL and logic to build it.
+",https://github.com/alexcrichton/openssl-src-rs
+eyre,38777468,7145906,2024-01-31T16:44:06.544480Z,2020-02-05T15:38:43.804247Z,0.6.12,Flexible concrete Error Reporting type built on std::error::Error with customizable Reports,https://github.com/eyre-rs/eyre
+backoff,38651847,7206392,2021-12-14T21:16:45.606935Z,2017-05-28T08:49:16.062452Z,0.4.0,"Retry operations with exponential backoff policy.
+",https://github.com/ihrwein/backoff
+icu_properties_data,38602652,27044840,2025-03-26T19:48:23.370817Z,2023-09-23T18:51:13.162401Z,2.0.0-beta2,Data for the icu_properties crate,https://github.com/unicode-org/icu4x
+icu_collections,38541571,26712083,2025-02-26T18:36:07.860686Z,2022-08-05T00:53:11.818242Z,2.0.0-beta2,Collection of API for use in ICU libraries.,https://github.com/unicode-org/icu4x
+icu_normalizer_data,38473407,27025072,2025-03-26T19:48:09.614386Z,2023-09-23T18:52:20.250563Z,2.0.0-beta2,Data for the icu_normalizer crate,https://github.com/unicode-org/icu4x
+icu_normalizer,38363902,26680803,2025-02-26T18:40:31.205771Z,2021-04-29T20:11:06.762323Z,2.0.0-beta2,API for normalizing text into Unicode Normalization Forms,https://github.com/unicode-org/icu4x
+x509-parser,38228191,10182496,2025-01-29T10:13:33.277752Z,2018-01-20T17:51:20.124206Z,0.17.0,Parser for the X.509 v3 format (RFC 5280 certificates),https://github.com/rusticata/x509-parser.git
+pulldown-cmark,38191818,4245355,2025-02-12T16:13:01.983822Z,2015-06-04T04:06:59.936973Z,0.13.0,A pull parser for CommonMark,https://github.com/raphlinus/pulldown-cmark
+simdutf8,38008354,9782422,2024-09-22T09:18:22.610907Z,2021-04-20T19:11:04.474217Z,0.1.5,SIMD-accelerated UTF-8 validation.,https://github.com/rusticstuff/simdutf8
+jpeg-decoder,37688587,6278186,2024-01-13T20:16:58.623429Z,2016-02-13T21:57:24.620735Z,0.3.1,JPEG decoder,https://github.com/image-rs/jpeg-decoder
+widestring,37644801,5736314,2025-03-15T21:57:47.030927Z,2016-01-25T09:03:34.077126Z,1.2.0,"A wide string Rust library for converting to and from wide strings, such as those often used in Windows API or other FFI libaries. Both `u16` and `u32` string types are provided, including support for UTF-16 and UTF-32, malformed encoding, C-style strings, etc.",https://github.com/starkat99/widestring-rs
+snap,37533313,7315113,2023-12-05T13:10:51.661359Z,2016-08-02T03:06:33.334539Z,1.1.1,"A pure Rust implementation of the Snappy compression algorithm. Includes
+streaming compression and decompression.
+",https://github.com/BurntSushi/rust-snappy
+ptr_meta_derive,37521587,10586759,2024-09-11T05:38:27.112873Z,2021-02-03T17:57:18.080611Z,0.3.0,Proc macros for ptr_meta,https://github.com/rkyv/ptr_meta
+ptr_meta,37519657,10587415,2024-09-11T05:38:40.060589Z,2021-02-03T17:59:03.776364Z,0.3.0,A radioactive stabilization of the ptr_meta rfc,https://github.com/rkyv/ptr_meta
+quinn-udp,37507044,14507167,2025-03-25T09:18:12.498305Z,2021-10-07T07:48:11.762234Z,0.5.11,UDP sockets with ECN information for the QUIC transport protocol,https://github.com/quinn-rs/quinn
+rawpointer,37422509,7604092,2019-09-12T07:51:36.405018Z,2016-12-15T11:20:57.558650Z,0.2.1,"Extra methods for raw pointers and `NonNull<T>`.
+
+For example `.post_inc()` and `.pre_dec()` (c.f. `ptr++` and `--ptr`),
+`offset` and `add` for `NonNull<T>`, and the function `ptrdistance`.
+",https://github.com/bluss/rawpointer/
+oid-registry,37404333,10258826,2025-02-10T12:58:00.890947Z,2020-10-26T09:00:11.245782Z,0.8.1,Object Identifier (OID) database,https://github.com/rusticata/oid-registry.git
+quinn,37186887,14147933,2025-03-18T09:41:37.623888Z,2018-10-02T20:18:56.824108Z,0.11.7,Versatile QUIC transport protocol implementation,https://github.com/quinn-rs/quinn
+dotenvy,37122646,8967794,2023-03-22T16:04:41.028594Z,2022-02-28T19:06:25.238818Z,0.15.7,A well-maintained fork of the dotenv crate,https://github.com/allan2/dotenvy
+arbitrary,36788160,10472064,2024-11-05T17:09:54.366451Z,2017-05-08T05:52:54.904092Z,1.4.1,The trait for generating structured data from unstructured data,https://github.com/rust-fuzz/arbitrary/
+hdrhistogram,36696675,8635597,2023-11-18T13:08:34.346868Z,2015-07-07T20:58:59.521601Z,7.5.4,A port of HdrHistogram to Rust,https://github.com/HdrHistogram/HdrHistogram_rust.git
+errno-dragonfly,36661046,1623774,2021-09-27T08:59:29.274682Z,2017-07-10T18:46:44.469870Z,0.1.2,Exposes errno functionality to stable Rust on DragonFlyBSD,https://github.com/mneumann/errno-dragonfly-rs
+lexical-util,36571377,8644905,2024-12-09T20:44:05.614911Z,2021-09-03T05:05:47.942062Z,1.0.6,Shared utilities for lexical creates.,https://github.com/Alexhuszagh/rust-lexical
+weezl,36565547,9104697,2024-01-22T05:51:01.270902Z,2020-06-29T10:53:19.555239Z,0.1.8,Fast LZW compression and decompression.,https://github.com/image-rs/lzw
+lexical-parse-integer,36541678,8642168,2024-12-08T21:00:01.965623Z,2021-09-03T05:06:17.843690Z,1.0.5,Efficient parsing of integers from strings.,https://github.com/Alexhuszagh/rust-lexical
+lexical-parse-float,36530194,8641346,2024-12-08T21:00:27.530805Z,2021-09-03T05:06:46.664679Z,1.0.5,Efficient parsing of floats from strings.,https://github.com/Alexhuszagh/rust-lexical
+bytes-utils,36499305,6619803,2023-11-17T14:26:14.682124Z,2021-01-22T19:45:42.248518Z,0.1.4,Additional utilities for working with the bytes crate,https://github.com/vorner/bytes-utils
+assert-json-diff,36492960,9838025,2022-06-29T21:40:34.607604Z,2018-10-17T08:08:13.861112Z,2.0.2,Easily compare two JSON values and get great output,https://github.com/davidpdrsn/assert-json-diff.git
+ntapi,36322725,5040077,2023-04-20T23:14:01.046654Z,2018-09-11T16:14:17.942528Z,0.4.1,FFI bindings for Native API,https://github.com/MSxDOS/ntapi
+rust_decimal,36261365,7383209,2025-03-22T15:13:38.065133Z,2016-11-16T16:31:13.547828Z,1.37.1,Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.,https://github.com/paupino/rust-decimal
+bs58,35939714,4891783,2024-03-19T12:50:23.529199Z,2016-11-02T21:08:38.185278Z,0.5.1,Another Base58 codec implementation.,https://github.com/Nullus157/bs58-rs
+rusticata-macros,35892295,9703141,2025-03-17T13:13:23.909969Z,2017-02-20T20:19:04.799102Z,5.0.0,Helper macros for Rusticata,https://github.com/rusticata/rusticata-macros.git
+actix-rt,35709641,5079571,2024-06-09T17:07:18.593667Z,2018-12-11T16:27:02.597949Z,2.10.0,Tokio-based single-threaded async runtime for the Actix ecosystem,https://github.com/actix/actix-net
+xmlparser,35696493,6189242,2023-09-30T15:21:25.478529Z,2017-12-15T14:09:53.052102Z,0.13.6,"Pull-based, zero-allocation XML parser.",https://github.com/RazrFalcon/xmlparser
+integer-encoding,35567798,6501587,2024-08-01T15:30:37.323715Z,2016-06-05T16:49:34.555312Z,4.0.2,varint+zigzag and fixedint integer encoding/decoding (https://developers.google.com/protocol-buffers/docs/encoding),https://github.com/dermesser/integer-encoding-rs
+failure,35468892,1160006,2020-05-02T18:13:11.746367Z,2017-10-08T21:02:37.136531Z,0.1.8,Experimental error handling abstraction.,https://github.com/rust-lang-nursery/failure
+option-ext,35363638,9116587,2023-01-11T19:28:05.598091Z,2022-01-17T16:08:41.833631Z,0.2.0,Extends `Option` with additional operations,https://github.com/soc/option-ext.git
+futures-intrusive,35248588,7816808,2022-11-04T06:14:20.712105Z,2019-05-22T05:49:33.423930Z,0.5.0,"Futures based on intrusive data structures - for std and no-std environments.
+",https://github.com/Matthias247/futures-intrusive
+idna_adapter,35241005,26701749,2024-12-12T08:06:55.855680Z,2024-07-03T12:10:46.447319Z,1.2.0,Back end adapter for idna,https://github.com/hsivonen/idna_adapter
+rkyv,35131248,8253507,2025-01-22T17:52:21.712456Z,2020-11-11T16:36:21.012106Z,0.8.10,Zero-copy deserialization framework for Rust,https://github.com/rkyv/rkyv
+rkyv_derive,35124537,8249658,2025-01-22T17:52:07.993259Z,2020-11-11T16:14:18.106933Z,0.8.10,Derive macro for rkyv,https://github.com/rkyv/rkyv
+fake-simd,34969622,804237,2016-12-25T02:41:39.196656Z,2016-10-07T10:30:52.420542Z,0.1.2,Crate for mimicking simd crate on stable Rust,https://github.com/RustCrypto/utils
+shell-words,34730534,6549770,2022-02-06T20:41:07.732312Z,2018-03-09T12:52:15.094104Z,1.1.0,Process command line according to parsing rules of UNIX shell,https://github.com/tmiasko/shell-words
+const_format,34686082,8787708,2024-12-06T21:10:12.913219Z,2020-08-17T03:38:43.263493Z,0.2.34,Compile-time string formatting,https://github.com/rodrimati1992/const_format_crates/
+serde-value,34625543,7918223,2020-07-17T18:20:27.889805Z,2016-01-04T05:31:23.189001Z,0.7.0,Serialization value trees,https://github.com/arcnmx/serde-value
+const_format_proc_macros,34592526,8778580,2024-12-06T21:09:55.439685Z,2020-08-19T02:34:40.789983Z,0.2.34,Implementation detail of the `const_format` crate,https://github.com/rodrimati1992/const_format_crates/
+serde_qs,34422467,7203295,2025-03-04T21:41:48.339569Z,2017-03-12T19:35:23.156845Z,0.14.0,Querystrings for Serde,https://github.com/samscott89/serde_qs
+gethostname,34421674,6889170,2025-03-25T12:27:18.030891Z,2019-01-20T18:20:36.505189Z,1.0.1,gethostname for all platforms,https://github.com/swsnr/gethostname.rs.git
+piper,34419765,11082467,2024-08-10T23:23:30.294361Z,2020-02-09T03:05:27.335714Z,0.2.4,"Async pipes, channels, mutexes, and more.",https://github.com/smol-rs/piper
+fdeflate,34340099,10021889,2024-12-06T03:16:12.038530Z,2022-12-23T08:20:45.945441Z,0.3.7,Fast specialized deflate implementation,https://github.com/image-rs/fdeflate
+asn1-rs,34308526,10387307,2025-03-17T09:24:03.874804Z,2021-07-06T14:18:16.184256Z,0.7.1,Parser/encoder for ASN.1 BER/DER data,https://github.com/rusticata/asn1-rs.git
+actix-web,34285545,5013690,2025-03-10T04:52:19.400006Z,2017-10-23T23:08:29.260260Z,4.10.2,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust",https://github.com/actix/actix-web
+safemem,34205891,1391059,2019-10-22T03:54:11.474305Z,2016-09-10T02:34:44.350724Z,0.3.3,"Safe wrappers for memory-accessing functions, like `std::ptr::copy()`.",https://github.com/abonander/safemem
+bytecheck_derive,34133342,7598421,2025-02-08T16:31:11.978016Z,2020-11-14T19:41:36.230925Z,0.8.1,Derive macro for bytecheck,https://github.com/rkyv/bytecheck
+bytecheck,34126101,7599102,2025-02-08T16:31:24.910933Z,2020-11-14T19:42:05.230649Z,0.8.1,Memory validation framework for Rust,https://github.com/rkyv/bytecheck
+asn1-rs-derive,34070310,10346749,2025-01-16T16:52:21.067659Z,2022-01-27T15:38:56.488532Z,0.6.0,Derive macros for the `asn1-rs` crate,https://github.com/rusticata/asn1-rs.git
+sqlx-core,34017538,7731208,2025-01-04T04:29:40.394086Z,2019-11-27T06:24:33.159543Z,0.8.3,"Core of SQLx, the rust SQL toolkit. Not intended to be used directly.",https://github.com/launchbadge/sqlx
+cxxbridge-macro,33953626,5495530,2025-04-08T00:59:18.985719Z,2020-01-08T16:51:00.546848Z,1.0.156,Implementation detail of the `cxx` crate.,https://github.com/dtolnay/cxx
+sqlx,33932619,7679688,2025-01-04T04:31:04.316014Z,2019-06-06T23:42:00.933224Z,0.8.3,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",https://github.com/launchbadge/sqlx
+cxx,33878911,5494813,2025-04-08T00:59:29.801823Z,2019-12-28T02:59:21.893783Z,1.0.156,Safe interop between Rust and C++,https://github.com/dtolnay/cxx
+actix-http,33768160,4976962,2025-03-10T03:53:03.936802Z,2019-03-28T19:50:22.257203Z,3.10.0,HTTP types and services for the Actix ecosystem,https://github.com/actix/actix-web
+maybe-uninit,33760892,1484676,2019-07-10T13:41:31.043470Z,2019-07-09T02:54:23.855805Z,2.0.0,MaybeUninit for friends of backwards compatibility,https://github.com/est31/maybe-uninit
+sqlx-macros,33704101,7630592,2025-01-04T04:30:39.947454Z,2019-11-27T06:24:30.686963Z,0.8.3,"Macros for SQLx, the rust SQL toolkit. Not intended to be used directly.",https://github.com/launchbadge/sqlx
+lexical-write-float,33644462,6580592,2024-12-08T20:59:47.876201Z,2021-09-03T05:06:32.199635Z,1.0.5,Efficient formatting of floats to strings.,https://github.com/Alexhuszagh/rust-lexical
+sqlformat,33605209,5520809,2025-01-13T23:24:00.632204Z,2020-04-18T23:00:30.535387Z,0.3.5,Formats whitespace in a SQL string to make it easier to read,https://github.com/shssoichiro/sqlformat-rs
+lexical-write-integer,33577362,6580619,2024-12-08T20:59:32.163253Z,2021-09-03T05:06:00.338107Z,1.0.5,Efficient formatting of integers to strings.,https://github.com/Alexhuszagh/rust-lexical
+lz4-sys,33568576,8733307,2024-09-26T11:51:34.999693Z,2016-11-26T20:22:03.426256Z,1.11.1+lz4-1.10.0,Rust LZ4 sys package.,https://github.com/10xGenomics/lz4-rs
+opentelemetry-http,33540588,9075916,2025-03-22T00:12:41.160061Z,2021-01-22T01:47:24.838272Z,0.29.0,"Helper implementations for sending HTTP requests. Uses include propagating and extracting context over http, exporting telemetry, requesting sampling strategies.",https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-http
+cxxbridge-flags,33532583,5399840,2025-04-08T00:58:57.552920Z,2020-08-30T19:11:14.887567Z,1.0.156,Compiler configuration of the `cxx` crate (implementation detail),https://github.com/dtolnay/cxx
+opentelemetry-otlp,33513927,7782264,2025-03-22T00:14:48.053701Z,2020-08-14T02:49:26.002779Z,0.29.0,Exporter for the OpenTelemetry Collector,https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-otlp
+rend,33491326,7338367,2024-10-10T22:58:02.496159Z,2021-05-03T04:50:08.311160Z,0.5.2,"Cross-platform, endian-aware primitives for Rust",https://github.com/djkoloski/rend
+aws-smithy-http,33455874,6668105,2025-03-10T15:45:51.651748Z,2021-10-20T22:41:52.345829Z,0.62.0,Smithy HTTP logic for smithy-rs.,https://github.com/smithy-lang/smithy-rs
+aws-smithy-types,33338006,6275929,2025-03-10T15:43:17.880566Z,2021-10-20T22:24:37.967351Z,1.3.0,Types for smithy-rs codegen.,https://github.com/smithy-lang/smithy-rs
+fs2,33326112,3693622,2018-01-06T20:18:30.565584Z,2015-09-02T04:59:26.926644Z,0.4.3,Cross-platform file locks and file duplication.,https://github.com/danburkert/fs2-rs
+rand_isaac,33299415,2021904,2025-01-27T14:40:17.354946Z,2018-10-17T10:09:32.428249Z,0.4.0,"ISAAC random number generator
+",https://github.com/rust-random/rngs
+unarray,33277088,11435410,2022-11-30T17:09:42.916530Z,2022-06-05T00:07:57.377068Z,0.1.4,Utilities for working with uninitialized arrays,https://github.com/cameron1024/unarray
+inventory,33275504,9764009,2025-03-03T23:40:59.402157Z,2015-07-22T19:31:19.081684Z,0.3.20,Typed distributed plugin registration,https://github.com/dtolnay/inventory
+actix-codec,33207643,4853213,2024-01-30T22:15:31.971530Z,2018-12-11T16:11:24.789455Z,0.5.2,Codec utilities for working with framed protocols,https://github.com/actix/actix-net
+failure_derive,33178365,1087668,2020-05-02T18:13:57.357775Z,2017-11-11T00:12:56.159388Z,0.1.8,derives for the failure crate,https://github.com/rust-lang-nursery/failure
+actix-macros,33115627,4923831,2023-07-19T22:54:08.231118Z,2019-12-01T14:11:37.045433Z,0.2.4,Macros for Actix system and runtime,https://github.com/actix/actix-net.git
+aws-smithy-json,33094242,6927654,2025-03-10T15:43:59.801756Z,2021-10-20T22:55:41.104501Z,0.61.3,Token streaming JSON parser for smithy-rs.,https://github.com/smithy-lang/smithy-rs
+link-cplusplus,33082296,5400112,2025-03-03T23:43:53.163395Z,2020-01-24T23:19:30.309958Z,1.0.10,Link libstdc++ or libc++ automatically or manually,https://github.com/dtolnay/link-cplusplus
+rand_os,33064294,1971773,2019-08-28T14:24:22.432373Z,2019-01-04T11:31:17.691682Z,0.2.2,OS backed Random Number Generator,https://github.com/rust-random/rand
+fallible-streaming-iterator,32970289,5228597,2018-05-02T20:02:49.746627Z,2016-12-17T05:15:07.551663Z,0.1.9,Fallible streaming iteration,https://github.com/sfackler/fallible-streaming-iterator
+outref,32877594,7859296,2025-01-15T09:06:04.205242Z,2022-07-22T14:49:20.508197Z,0.5.2,Out reference,https://github.com/Nugine/outref
+triomphe,32842622,7089069,2024-10-07T04:02:22.368103Z,2018-12-05T15:12:01.422998Z,0.1.14,A fork of std::sync::Arc with some extra functionality and without weak references (originally servo_arc),https://github.com/Manishearth/triomphe
+actix-utils,32821676,4827981,2022-10-21T02:16:28.434701Z,2018-12-11T16:41:30.670256Z,3.0.1,Various utilities used in the Actix ecosystem,https://github.com/actix/actix-net
+aws-sigv4,32691530,6233300,2025-03-11T21:50:48.934961Z,2020-04-10T18:03:29.975826Z,1.3.0,SigV4 signer for HTTP requests and Event Stream messages.,https://github.com/smithy-lang/smithy-rs
+env_filter,32683830,14173927,2024-12-20T16:22:48.705884Z,2024-01-19T18:00:00.886437Z,0.1.3,"Filter log events using environment variables
+",https://github.com/rust-cli/env_logger
+jni-sys,32682374,7304719,2023-09-25T21:30:35.551409Z,2016-02-26T06:37:49.528984Z,0.4.0,Rust definitions corresponding to jni.h,https://github.com/jni-rs/jni-sys
+dlv-list,32679384,8029025,2024-11-17T07:31:26.465286Z,2018-10-08T01:05:11.539060Z,0.6.0,Semi-doubly linked list implemented using a vector,https://github.com/sgodwincs/dlv-list-rs
+actix-server,32618644,4896350,2025-03-08T17:33:21.352187Z,2018-12-11T16:44:34.322212Z,2.5.1,General purpose TCP server built for the Actix ecosystem,https://github.com/actix/actix-net/tree/master/actix-server
+aws-smithy-async,32523601,6195691,2025-03-10T15:43:06.566506Z,2021-10-20T22:39:36.330689Z,1.2.5,Async runtime agnostic abstractions for smithy-rs.,https://github.com/smithy-lang/smithy-rs
+multer,32504710,7178364,2024-05-04T01:46:11.282005Z,2020-05-10T14:08:30.572077Z,3.1.0,An async parser for `multipart/form-data` content-type in Rust.,https://github.com/rwf2/multer
+hash32,32469966,6956209,2022-08-09T13:44:28.945620Z,2018-04-23T17:20:16.808083Z,0.3.1,32-bit hashing algorithms,https://github.com/japaric/hash32
+nodrop,32455663,2396167,2019-10-09T07:33:37.389023Z,2015-05-21T09:53:29.753562Z,0.1.14,"A wrapper type to inhibit drop (destructor).
+
+***Deprecated: Use ManuallyDrop or MaybeUninit instead!***
+",https://github.com/bluss/arrayvec
+aws-types,32424682,6180225,2025-03-11T21:51:44.970245Z,2021-10-20T22:42:56.466587Z,1.3.6,Cross-service types for the AWS SDK.,https://github.com/smithy-lang/smithy-rs
+actix-service,32407784,4841608,2025-03-09T17:57:51.688174Z,2018-12-09T18:06:41.389362Z,2.0.3,Service trait and combinators for representing asynchronous request/response operations.,https://github.com/actix/actix-net
+lz4_flex,32244021,7715347,2024-03-30T03:20:21.213232Z,2020-10-18T12:54:23.855597Z,0.11.3,"Fastest LZ4 implementation in Rust, no unsafe by default.",https://github.com/pseitz/lz4_flex
+actix-router,32194211,4833845,2024-05-19T11:16:59.449105Z,2019-03-09T22:39:40.250434Z,0.5.3,Resource path matching and router,https://github.com/actix/actix-web
+actix-web-codegen,32006948,4826191,2024-06-08T23:24:23.437523Z,2019-03-28T20:13:19.911291Z,4.3.0,Routing and runtime macros for Actix Web,https://github.com/actix/actix-web
+base64-simd,31933673,7227683,2022-12-28T03:07:32.705641Z,2021-12-31T09:20:06.544275Z,0.8.0,SIMD-accelerated base64 encoding and decoding,https://github.com/Nugine/simd
+wasm-streams,31894858,10662289,2024-10-25T13:00:49.666818Z,2020-06-14T22:04:33.007556Z,0.4.2,"Bridging between web streams and Rust streams using WebAssembly
+",https://github.com/MattiasBuelens/wasm-streams/
+bytestring,31795074,4943647,2024-11-24T01:36:58.169687Z,2019-12-07T05:03:17.279001Z,1.4.0,A UTF-8 encoded read-only string using `Bytes` as storage,https://github.com/actix/actix-net
+ordered-multimap,31745398,8002486,2024-04-01T10:34:17.349186Z,2018-11-17T22:28:51.467238Z,0.7.3,Insertion ordered multimap,https://github.com/sgodwincs/ordered-multimap-rs
+ron,31692812,8508025,2025-04-08T07:02:24.205823Z,2017-07-30T18:52:31.572953Z,0.10.1,Rusty Object Notation,https://github.com/ron-rs/ron
+asn1-rs-impl,31685936,9968453,2024-02-23T08:38:59.472174Z,2022-01-07T12:00:31.263414Z,0.2.0,Implementation details for the `asn1-rs` crate,https://github.com/rusticata/asn1-rs.git
+rand_jitter,31681522,1939523,2025-01-27T14:40:27.039041Z,2019-01-25T09:53:44.828929Z,0.5.0,Random number generator based on timing jitter,https://github.com/rust-random/rngs
+aws-sdk-sts,31563522,6065922,2025-03-28T19:05:52.474822Z,2021-05-08T02:52:41.470351Z,1.65.0,AWS SDK for AWS Security Token Service,https://github.com/awslabs/aws-sdk-rust
+deadpool,31558625,9299296,2025-02-02T17:55:15.790291Z,2019-11-14T12:49:50.684130Z,0.12.2,Dead simple async pool,https://github.com/bikeshedder/deadpool
+aws-smithy-xml,31473547,5891823,2024-09-09T16:00:34.192582Z,2021-10-20T23:52:53.560509Z,0.60.9,XML parsing logic for Smithy protocols.,https://github.com/smithy-lang/smithy-rs
+thrift,31330040,5980811,2022-11-14T01:43:24.276250Z,2017-04-10T20:06:33.767390Z,0.17.0,Rust bindings for the Apache Thrift RPC system,https://github.com/apache/thrift/tree/master/lib/rs
+os_pipe,31328993,5509393,2024-08-01T21:02:02.296411Z,2016-07-12T16:41:51.109567Z,1.2.1,a cross-platform library for opening OS pipes,https://github.com/oconnor663/os_pipe.rs
+typed-builder,31311880,6966949,2025-03-20T11:43:37.134151Z,2017-10-04T23:49:38.955558Z,0.21.0,Compile-time type-checked builder derive,https://github.com/idanarye/rust-typed-builder
+ouroboros,31185823,5896063,2025-01-11T04:16:42.134017Z,2020-09-20T00:54:06.963212Z,0.18.5,"Easy, safe self-referential struct generation.",https://github.com/someguynamedjosh/ouroboros
+cesu8,31154511,7201126,2016-05-15T12:20:41.086989Z,2014-12-07T17:43:28.641160Z,1.1.0,Convert to and from CESU-8 encoding (similar to UTF-8),https://github.com/emk/cesu8-rs
+aws-config,31141382,6004455,2025-03-27T19:15:04.309970Z,2021-10-21T20:08:43.344710Z,1.6.1,AWS SDK config and credential provider implementations.,https://github.com/smithy-lang/smithy-rs
+cxx-build,31100549,5184113,2025-04-08T00:59:07.144177Z,2020-04-30T01:59:02.039905Z,1.0.156,C++ code generator for integrating `cxx` crate into a Cargo build.,https://github.com/dtolnay/cxx
+proc-macro-nested,31095398,331458,2021-01-13T22:57:37.841784Z,2018-11-18T10:20:51.180158Z,0.1.7,Support for nested proc-macro-hack invocations,https://github.com/dtolnay/proc-macro-hack
+psm,31093781,6723662,2025-02-14T12:00:36.565835Z,2018-12-29T17:52:03.479403Z,0.1.25,Portable Stack Manipulation: stack manipulation and introspection routines,https://github.com/rust-lang/stacker/
+bigdecimal,31033646,6964835,2025-04-01T04:18:08.395802Z,2017-04-05T23:48:11.922233Z,0.4.8,Arbitrary precision decimal numbers,https://github.com/akubera/bigdecimal-rs
+windows-result,30952457,18703780,2025-03-18T14:25:29.257932Z,2024-02-02T16:47:12.691453Z,0.3.2,Windows error handling,https://github.com/microsoft/windows-rs
+opentelemetry-proto,30926031,8005270,2025-03-22T00:14:17.935511Z,2022-09-13T02:34:50.358356Z,0.29.0,Protobuf generated files and transformations.,https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-proto
+ouroboros_macro,30890088,5872853,2025-01-11T04:16:12.258915Z,2020-09-20T00:53:05.914063Z,0.18.5,Proc macro for ouroboros crate.,https://github.com/someguynamedjosh/ouroboros
+standback,30672704,1317371,2022-04-07T02:00:50.674122Z,2020-03-06T02:10:24.334925Z,0.4.4,"New standard library, old compiler.",https://github.com/jhpratt/standback
+password-hash,30668967,4774759,2024-07-27T20:02:54.918513Z,2020-08-18T19:09:14.097687Z,0.6.0-rc.0,"Traits which describe the functionality of password hashing algorithms,
+as well as a `no_std`-friendly implementation of the PHC string format
+(a well-defined subset of the Modular Crypt Format a.k.a. MCF)
+",https://github.com/RustCrypto/traits
+aws-smithy-query,30537493,5730342,2024-03-12T19:43:09.525858Z,2021-10-20T22:55:41.130772Z,0.60.7,AWSQuery and EC2Query Smithy protocol logic for smithy-rs.,https://github.com/smithy-lang/smithy-rs
+rand_xoshiro,30516224,4663318,2025-01-27T14:40:47.431340Z,2019-01-04T12:34:17.089290Z,0.7.0,"Xoshiro, xoroshiro and splitmix64 random number generators",https://github.com/rust-random/rngs
+tiff,30447976,4875328,2024-01-13T20:07:29.470798Z,2018-06-18T11:58:21.121540Z,0.9.1,TIFF decoding and encoding library in pure Rust,https://github.com/image-rs/image-tiff
+unreachable,30344001,1687807,2017-05-09T20:54:44.587632Z,2015-06-02T22:21:46.648713Z,1.0.0,An unreachable code optimization hint in stable rust.,https://github.com/reem/rust-unreachable.git
+time-macros-impl,30255455,1282300,2021-06-13T00:45:01.234186Z,2020-01-17T03:55:27.689640Z,0.1.2,Procedural macros for the time crate.,https://github.com/time-rs/time
+gloo-timers,30216501,6275809,2023-08-11T16:04:38.773701Z,2019-09-13T11:49:44.838113Z,0.3.0,Convenience crate for working with JavaScript timers,https://github.com/rustwasm/gloo/tree/master/crates/timers
+bytemuck_derive,30177931,6294498,2025-03-27T20:55:26.887571Z,2020-08-21T01:46:55.033861Z,1.9.3,derive proc-macros for `bytemuck`,https://github.com/Lokathor/bytemuck
+scratch,30103314,4941425,2025-03-04T00:14:25.972077Z,2020-09-17T05:19:17.837573Z,1.0.8,Compile-time temporary directory shared by multiple crates and erased by `cargo clean`,https://github.com/dtolnay/scratch
+clap_complete,30031596,5859572,2025-03-19T21:29:16.773334Z,2021-12-31T18:24:25.813971Z,4.5.47,Generate shell completion scripts for your clap::Command,https://github.com/clap-rs/clap
+unicode-linebreak,29810054,6765096,2023-07-25T11:49:38.560848Z,2018-12-10T20:45:01.729575Z,0.1.5,Implementation of the Unicode Line Breaking Algorithm,https://github.com/axelf4/unicode-linebreak
+metrics,29790151,6335034,2024-11-26T15:23:35.549016Z,2015-09-03T22:02:07.047796Z,0.24.1,A lightweight metrics facade.,https://github.com/metrics-rs/metrics
+cpp_demangle,29775742,6552877,2024-08-28T18:12:11.171746Z,2016-12-11T23:40:24.693468Z,0.4.4,A crate for demangling C++ symbols,https://github.com/gimli-rs/cpp_demangle
+nanorand,29658956,6003922,2022-03-09T00:47:47.205896Z,2020-09-06T02:01:21.666498Z,0.7.0,"A tiny, fast, zero-dep library for random number generation.",https://github.com/Absolucy/nanorand-rs
+aws-sdk-sso,29652836,5662697,2025-03-28T19:04:59.940452Z,2021-05-07T21:38:03.548250Z,1.64.0,AWS SDK for AWS Single Sign-On,https://github.com/awslabs/aws-sdk-rust
+regex-lite,29420900,9971113,2024-06-09T11:41:06.428247Z,2023-02-28T19:28:27.939514Z,0.1.6,"A lightweight regex engine that optimizes for binary size and compilation time.
+",https://github.com/rust-lang/regex/tree/master/regex-lite
+bytesize,29381739,4913320,2025-03-31T06:28:27.893646Z,2015-04-19T04:55:38.917419Z,2.0.1,an utility for human-readable bytes representations,https://github.com/bytesize-rs/bytesize/
